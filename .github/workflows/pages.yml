@@ -1,0 +1,51 @@
+name: HTML portfolio Pages and content sync
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '30 2 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: portfolio-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/configure-pages@v5
+        id: pages
+      - name: Update site address
+        env:
+          SITE_URL: ${{ steps.pages.outputs.origin }}${{ steps.pages.outputs.base_path }}
+        run: node -e 'const fs=require("fs");const p="site.config.json";const c=JSON.parse(fs.readFileSync(p));c.siteUrl=process.env.SITE_URL;fs.writeFileSync(p,JSON.stringify(c,null,2))'
+      - name: Refresh public content with fallbacks
+        run: node scripts/refresh-feeds.mjs
+      - name: Update HTML and SEO
+        run: node scripts/sync-pages.mjs
+      - name: Save content snapshots
+        run: |
+          git add data articles projects sitemap.xml image-sitemap.xml robots.txt site.config.json
+          if ! git diff --cached --quiet; then
+            git -c user.name='Portfolio Content Sync' -c user.email='portfolio-sync@users.noreply.github.com' commit -m 'Sync portfolio content'
+            git push
+          fi
+      - name: Stage public website
+        run: |
+          mkdir -p /tmp/portfolio-public
+          rsync -a --exclude='.git' --exclude='.github' --exclude='scripts' --exclude='README.md' --exclude='VALIDATION.json' ./ /tmp/portfolio-public/
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: /tmp/portfolio-public
+      - uses: actions/deploy-pages@v4
+        id: deployment

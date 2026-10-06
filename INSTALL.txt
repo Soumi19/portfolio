@@ -1,0 +1,1 @@
+Replace these three files at the repository root. Commit to main, Push origin, wait for green Actions deployment, then Command+Shift+R. Includes silver waves and mouse-grid animation. Responsive layout retains the same content and design, adapting columns to available space. Mouse effects desktop-only. Reduced motion respected.
