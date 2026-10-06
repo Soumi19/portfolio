@@ -2,7 +2,7 @@
   {
     "id": "74b7464cd2ea",
     "title": "The Hidden Cost of Broken Hiring — And How AI Startups Are Fixing It",
-    "url": "https://medium.com/startup-insider-edge/the-hidden-cost-of-broken-hiring-and-how-ai-startups-are-fixing-it-74b7464cd2ea?source=rss-35f33f9c8052------2",
+    "url": "https://medium.com/startup-insider-edge/the-hidden-cost-of-broken-hiring-and-how-ai-startups-are-fixing-it-74b7464cd2ea",
     "blocks": [
       {
         "kind": "image",
@@ -14,7 +14,7 @@
         "text": "Every year, companies spend billions of dollars trying to hire the right people — and still get it wrong. The average corporate job opening receives hundreds of applications, most of which a human recruiter will never fully read. This isn’t a minor inefficiency; it’s a systemic problem that costs businesses time, money, and talent. This is exactly the kind of problem a new wave of AI startups has decided to tackle head-on."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Real Problem: Hiring Is Broken at Scale"
       },
       {
@@ -47,7 +47,7 @@
         "alt": ""
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Solution: AI-Native Recruiting Startups"
       },
       {
@@ -80,12 +80,17 @@
         "alt": ""
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Why This Matters Beyond Hiring"
       },
       {
         "kind": "p",
         "text": "The hiring problem is a good example of a broader pattern in successful AI startups: they don’t try to “add AI” to everything. They pick one expensive, well-defined, high-friction problem and solve it end-to-end. That focus — a real problem, backed by a measurable solution — is usually the difference between a startup that raises funding and grows, and one that quietly disappears."
+      },
+      {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=74b7464cd2ea",
+        "alt": ""
       },
       {
         "kind": "p",
@@ -96,7 +101,7 @@
   {
     "id": "c0c98fe80aaa",
     "title": "The Rise of AI Startups: Why Everyone Is Talking About Them",
-    "url": "https://medium.com/startup-insider-edge/the-rise-of-ai-startups-why-everyone-is-talking-about-them-c0c98fe80aaa?source=rss-35f33f9c8052------2",
+    "url": "https://medium.com/startup-insider-edge/the-rise-of-ai-startups-why-everyone-is-talking-about-them-c0c98fe80aaa",
     "blocks": [
       {
         "kind": "p",
@@ -108,7 +113,7 @@
         "alt": ""
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "What Is an AI Startup?"
       },
       {
@@ -136,7 +141,7 @@
         "text": "Unlike older tech companies, AI startups often use machine learning models to do tasks that used to need a human."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Why Are So Many AI Startups Appearing Now?"
       },
       {
@@ -145,19 +150,19 @@
       },
       {
         "kind": "p",
-        "text": "1. Better and cheaper AI models\nLarge language models and other AI tools have become much more powerful in the last few years. At the same time, using these models has gotten cheaper, so small teams can build products that once needed huge budgets."
+        "text": "1. Better and cheaper AI modelsLarge language models and other AI tools have become much more powerful in the last few years. At the same time, using these models has gotten cheaper, so small teams can build products that once needed huge budgets."
       },
       {
         "kind": "p",
-        "text": "2. Easy access to tools\nCloud platforms, open-source models, and simple developer tools mean a small team — sometimes just two or three people — can build and launch a working AI product in weeks, not years."
+        "text": "2. Easy access to toolsCloud platforms, open-source models, and simple developer tools mean a small team — sometimes just two or three people — can build and launch a working AI product in weeks, not years."
       },
       {
         "kind": "p",
-        "text": "3. Investor interest\nInvestors are excited about AI. Many venture capital firms are putting large amounts of money into AI startups, hoping to find the “next big thing.”"
+        "text": "3. Investor interestInvestors are excited about AI. Many venture capital firms are putting large amounts of money into AI startups, hoping to find the “next big thing.”"
       },
       {
         "kind": "p",
-        "text": "4. Real business demand\nCompanies want to save time and money. AI tools that automate repetitive tasks are attractive to businesses of every size."
+        "text": "4. Real business demandCompanies want to save time and money. AI tools that automate repetitive tasks are attractive to businesses of every size."
       },
       {
         "kind": "image",
@@ -165,7 +170,7 @@
         "alt": ""
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Common Types of AI Startups"
       },
       {
@@ -193,7 +198,7 @@
         "text": "AI infrastructure — Companies that build the “behind the scenes” tools other AI companies need, like data storage or model training platforms"
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Challenges AI Startups Face"
       },
       {
@@ -221,7 +226,7 @@
         "text": "Finding real customers — Having good technology is not enough. Startups still need to find people willing to pay for their product."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Tips for Anyone Thinking About Starting an AI Company"
       },
       {
@@ -250,7 +255,7 @@
         "alt": ""
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Future of AI Startups"
       },
       {
@@ -262,6 +267,11 @@
         "text": "Whether you’re an entrepreneur, a job seeker, or just someone curious about technology, understanding AI startups is becoming an important part of understanding the future of business."
       },
       {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=c0c98fe80aaa",
+        "alt": ""
+      },
+      {
         "kind": "p",
         "text": "The Rise of AI Startups: Why Everyone Is Talking About Them was originally published in StartupInsider on Medium, where people are continuing the conversation by highlighting and responding to this story."
       }
@@ -270,10 +280,10 @@
   {
     "id": "fce5c2d7e548",
     "title": "The Agentic Browser Wars: Why ChatGPT’s Browser Died in Under a Year While Others Are Just Getting…",
-    "url": "https://pub.towardsai.net/the-agentic-browser-wars-why-chatgpts-browser-died-in-under-a-year-while-others-are-just-getting-fce5c2d7e548?source=rss-35f33f9c8052------2",
+    "url": "https://pub.towardsai.net/the-agentic-browser-wars-why-chatgpts-browser-died-in-under-a-year-while-others-are-just-getting-fce5c2d7e548",
     "blocks": [
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Agentic Browser Wars: Why ChatGPT’s Browser Died in Under a Year While Others Are Just Getting Started"
       },
       {
@@ -290,7 +300,7 @@
         "text": "That’s a strange outcome for a product category everyone agrees is the future. Because while Atlas was dying, its closest rivals — Perplexity’s Comet and Anthropic’s Claude for Chrome — were doing the opposite: growing fast enough to reshape what a browser is even supposed to do."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "From “Search and Read” to “Ask and Receive”"
       },
       {
@@ -302,7 +312,7 @@
         "text": "That’s the core distinction between a traditional browser and what the industry now calls an agentic browser. A traditional browser is a window onto the web. An agentic browser is an execution layer on top of it — capable of planning a multi-step task and carrying it out across several sites without a person clicking through each one."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "A Crowded, Fast-Moving Field"
       },
       {
@@ -339,7 +349,7 @@
         "text": "The pattern across nearly every winner so far is the same: bolt the agent onto something people already use, rather than asking them to adopt an entirely new browser. Atlas is the clearest case of the strategy that didn’t work; Comet, positioned as a genuinely new product with real differentiation for research and citation-heavy work, is the notable exception that’s holding its ground anyway."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "What This Is Already Being Used For"
       },
       {
@@ -368,7 +378,7 @@
         "text": "Narrow, high-trust security tasks — Apple’s password-repair feature shows a more conservative model: let the agent act, but only where the blast radius of a mistake is small and contained."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Bigger Claim: A New “Front Door” to the Web"
       },
       {
@@ -380,7 +390,7 @@
         "text": "That’s a real strategic bet, not just marketing language. If AI agents increasingly complete tasks that used to require a person clicking through a website, the browser stops being a passive viewer and becomes the layer where value actually gets captured — which is exactly why five or six well-funded companies are fighting over it at once instead of one clear winner emerging quickly."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "What’s Still Unsettled"
       },
       {
@@ -416,6 +426,11 @@
         "text": "Sources: Tech Insider, “Perplexity Comet vs ChatGPT Atlas vs Gemini Agent,” September 2026; SearchViu, “Atlas, Comet, Claude for Chrome: The AI Browser Landscape in 2026,” August 2026; No Hacks, “The Agentic Browser Landscape in 2026,” July 2026; Yoopya News, “AI Browser War 2026,” July 2026. This article reflects publicly available information as of September 2026."
       },
       {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=fce5c2d7e548",
+        "alt": ""
+      },
+      {
         "kind": "p",
         "text": "The Agentic Browser Wars: Why ChatGPT’s Browser Died in Under a Year While Others Are Just Getting… was originally published in Towards AI on Medium, where people are continuing the conversation by highlighting and responding to this story."
       }
@@ -424,7 +439,7 @@
   {
     "id": "2cbb721a5c42",
     "title": "World Models: The Quiet Race to Build AI That Understands Reality, Not Just Language",
-    "url": "https://www.towardsdeeplearning.com/world-models-the-quiet-race-to-build-ai-that-understands-reality-not-just-language-2cbb721a5c42?source=rss-35f33f9c8052------2",
+    "url": "https://www.towardsdeeplearning.com/world-models-the-quiet-race-to-build-ai-that-understands-reality-not-just-language-2cbb721a5c42",
     "blocks": [
       {
         "kind": "image",
@@ -440,7 +455,7 @@
         "text": "These are called world models, and 2025 into 2026 turned out to be the moment they left the research lab and became something people could actually try."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "What Makes a World Model Different"
       },
       {
@@ -456,7 +471,7 @@
         "text": "The most visible proof of concept came from Google DeepMind’s Genie 3, unveiled in 2025. Genie 3 generates fully navigable 3D environments from a simple text prompt, rendering at 24 frames per second and holding visual consistency for several minutes of real-time exploration — a huge leap from earlier systems that could only produce a few seconds of coherent video. In January 2026, Google opened a version of it to AI Ultra subscribers through a prototype called Project Genie, and later extended it at Google I/O 2026 with a Street View integration that can turn real-world locations into explorable simulations."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "An Increasingly Crowded Race"
       },
       {
@@ -493,7 +508,7 @@
         "text": "That last move is probably the clearest signal of how seriously the field is taking this direction. One of the most senior researchers in AI walked away from a major lab specifically to chase world models full-time."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Not Just a Research Curiosity"
       },
       {
@@ -517,7 +532,7 @@
         "text": "AI agent training. Instead of letting an agent learn by trial and error in the real world — expensive and occasionally dangerous — a world model offers a sandbox where mistakes are free."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Bigger Claim Behind the Technology"
       },
       {
@@ -529,7 +544,7 @@
         "text": "The reasoning behind that claim is straightforward, even if the engineering isn’t: an AI system that has to predict how a physical scene will unfold has to implicitly learn something about how the physical world actually works — gravity, momentum, cause and effect — in a way that a system trained purely on text never has to. Whether that implicit physical understanding generalizes into something closer to genuine reasoning is one of the most actively contested questions in AI research right now."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "What’s Still Unresolved"
       },
       {
@@ -566,6 +581,11 @@
         "text": "Sources: Google DeepMind, “Genie 3: A new frontier for world models,” 2025; Google DeepMind Blog via PYMNTS.com, January 2026; Wikipedia, “Genie (world model)” and “Project Genie (website)”; Introl Blog, “World Models Race 2026,” January 2026. This article reflects publicly available information as of September 2026."
       },
       {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=2cbb721a5c42",
+        "alt": ""
+      },
+      {
         "kind": "p",
         "text": "World Models: The Quiet Race to Build AI That Understands Reality, Not Just Language was originally published in Towards Deep Learning on Medium, where people are continuing the conversation by highlighting and responding to this story."
       }
@@ -574,10 +594,10 @@
   {
     "id": "0d095ca062a2",
     "title": "BRICS: Why India’s bet on practical ties matters",
-    "url": "https://medium.com/@soumiganguly2021/brics-why-indias-bet-on-practical-ties-matters-0d095ca062a2?source=rss-35f33f9c8052------2",
+    "url": "https://medium.com/@soumiganguly2021/brics-why-indias-bet-on-practical-ties-matters-0d095ca062a2",
     "blocks": [
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The significance of the recent 18th BRICS Summit under India’s presidency lies not only in how it sought to strengthen the grouping’s voice in global affairs, but in where it chose to build cooperation."
       },
       {
@@ -664,13 +684,18 @@
       {
         "kind": "p",
         "text": "Originally published at https://www.hindustantimes.com on September 23, 2026."
+      },
+      {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=0d095ca062a2",
+        "alt": ""
       }
     ]
   },
   {
     "id": "571e51974b2c",
     "title": "Context Engineering: The Skill That Quietly Replaced Prompt Engineering",
-    "url": "https://medium.com/towards-data-engineering/context-engineering-the-skill-that-quietly-replaced-prompt-engineering-571e51974b2c?source=rss-35f33f9c8052------2",
+    "url": "https://medium.com/towards-data-engineering/context-engineering-the-skill-that-quietly-replaced-prompt-engineering-571e51974b2c",
     "blocks": [
       {
         "kind": "image",
@@ -690,7 +715,7 @@
         "text": "Within months, the phrase had spread through the entire AI industry — from LangChain’s engineering blogs to Anthropic’s internal frameworks to Gartner’s analyst briefings, which by late 2025 were telling clients plainly that context engineering was in and prompt engineering was out."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Why the Old Term Stopped Fitting"
       },
       {
@@ -706,7 +731,7 @@
         "text": "Karpathy’s own mental model makes the shift concrete: think of the LLM as a CPU, and its context window as RAM. Prompting was about writing a good instruction. Context engineering is closer to operating-system work — deciding what gets loaded into working memory, in what order, and when it needs to be cleared out to make room for what matters next."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "What Actually Goes Wrong Without It"
       },
       {
@@ -734,7 +759,7 @@
         "text": "These aren’t rare edge cases. Reported failure rates for multi-agent systems built without deliberate context management have ranged from roughly 41% to 87% across major frameworks — a strong signal that the constraint most teams are hitting isn’t model intelligence, it’s what the model is being shown."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Four Moves Behind Good Context Engineering"
       },
       {
@@ -767,7 +792,7 @@
         "text": "None of these are exotic ideas on their own. What’s new is treating them as an actual engineering discipline — something designed, tested, and iterated on — rather than an afterthought bolted onto a prompt."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "This Is Bigger Than Chatbots"
       },
       {
@@ -779,7 +804,7 @@
         "text": "Anthropic has made a similar case internally, describing context engineering as the natural evolution of prompting: a finite, valuable resource that has to be managed with real engineering discipline rather than intuition. And the stakes attached to getting it right are no longer small. Analysts have pointed to hundreds of billions of dollars in AI investment converting into only a fraction of its intended business value — with poor context management, not model quality, cited as a central reason why."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Where to Actually Start"
       },
       {
@@ -816,6 +841,11 @@
         "text": "Sources: Tobi Lütke and Andrej Karpathy, public statements, June 2025; LangChain engineering blog, 2025; Anthropic, context engineering framework, 2025; Gartner analyst briefings, 2025. This article reflects publicly available information as of September 2026."
       },
       {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=571e51974b2c",
+        "alt": ""
+      },
+      {
         "kind": "p",
         "text": "Context Engineering: The Skill That Quietly Replaced Prompt Engineering was originally published in Towards Data Engineering on Medium, where people are continuing the conversation by highlighting and responding to this story."
       }
@@ -824,7 +854,7 @@
   {
     "id": "3f0aa780f934",
     "title": "Vibe Coding’s Shaky Foundations: What Cursor’s CEO Just Warned Every Developer About",
-    "url": "https://medium.com/towards-data-engineering/vibe-codings-shaky-foundations-what-cursor-s-ceo-just-warned-every-developer-about-3f0aa780f934?source=rss-35f33f9c8052------2",
+    "url": "https://medium.com/towards-data-engineering/vibe-codings-shaky-foundations-what-cursor-s-ceo-just-warned-every-developer-about-3f0aa780f934",
     "blocks": [
       {
         "kind": "image",
@@ -840,7 +870,7 @@
         "text": "That’s the strange position Michael Truell, the 25-year-old cofounder and CEO of Cursor, found himself in at the Fortune Brainstorm AI conference late last year. Cursor is an AI-powered coding tool used by huge numbers of developers, and Truell’s job is to convince people that letting AI write more of their code is a good idea. Instead, he stood up and drew a sharp line between AI-assisted coding done well and the increasingly popular practice known as “vibe coding” — and warned that the second one is quietly setting projects up to fail."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "What “Vibe Coding” Actually Means"
       },
       {
@@ -856,7 +886,7 @@
         "text": "For small, disposable projects, he pointed out, that’s genuinely fine. Mocking up a weekend game or a quick prototype doesn’t require anyone to understand the plumbing. The problems start when people try to scale that same close-your-eyes approach into something meant to last."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Line That Went Viral"
       },
       {
@@ -868,7 +898,7 @@
         "text": "It’s a simple image, but it landed because most developers who’ve tried AI coding tools have felt some version of it already — the moment a fast, magical first draft turns into a codebase nobody, human or AI, can fully explain anymore."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Why This Warning Carries Weight"
       },
       {
@@ -889,7 +919,7 @@
         "text": "That distinction matters because of how fast the underlying claims about AI coding have been escalating. Microsoft and Google have both said that roughly a quarter of their companies’ code is now AI-generated. Anthropic’s CEO predicted that within months, the vast majority of all code could be AI-written. When percentages like that get thrown around, the natural question is: written how? Reviewed by whom? Understood by whom, if anything breaks?"
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Debt Comes Due Later"
       },
       {
@@ -901,7 +931,7 @@
         "text": "With vibe-coded software, that moment tends to be worse than usual. A bug in code you wrote yourself is annoying. A bug in a system nobody on the team ever actually understood — because no one had to, until now — can mean starting the investigation from zero. Truell’s “crumble” isn’t a single dramatic collapse; it’s the slow accumulation of a codebase nobody can safely extend anymore."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "What This Actually Means for How You Work"
       },
       {
@@ -946,6 +976,11 @@
         "text": "Sources: Fortune/Marco Quiroz-Gutierrez, “Cursor CEO warns vibe coding builds ‘shaky foundations’ and eventually ‘things start to crumble,’” Dec. 2025; MIT Technology Review, “AI coding is now everywhere. But not everyone is convinced,” Dec. 2025. This article reflects publicly reported statements and is current as of September 2026."
       },
       {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=3f0aa780f934",
+        "alt": ""
+      },
+      {
         "kind": "p",
         "text": "Vibe Coding’s Shaky Foundations: What Cursor’s CEO Just Warned Every Developer About was originally published in Towards Data Engineering on Medium, where people are continuing the conversation by highlighting and responding to this story."
       }
@@ -954,7 +989,7 @@
   {
     "id": "a6679d424619",
     "title": "Cognitive Debt: The Real Price You Pay Every Time You Let AI Think For You",
-    "url": "https://medium.com/codetodeploy/cognitive-debt-the-real-price-you-pay-every-time-you-let-ai-think-for-you-a6679d424619?source=rss-35f33f9c8052------2",
+    "url": "https://medium.com/codetodeploy/cognitive-debt-the-real-price-you-pay-every-time-you-let-ai-think-for-you-a6679d424619",
     "blocks": [
       {
         "kind": "image",
@@ -962,7 +997,7 @@
         "alt": ""
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Cognitive Debt: The Real Price You Pay Every Time You Let AI Think For You"
       },
       {
@@ -971,7 +1006,7 @@
       },
       {
         "kind": "p",
-        "text": "💥 Master AI & Tech Skills\n 🎓 Get Up to 50% OFF Premium Courses\n ⏰ Limited-Time Offer\n👉 Enroll Now & Start Learning"
+        "text": "💥 Master AI & Tech Skills 🎓 Get Up to 50% OFF Premium Courses ⏰ Limited-Time Offer👉 Enroll Now & Start Learning"
       },
       {
         "kind": "image",
@@ -983,7 +1018,7 @@
         "text": "For years, “less friction” was the whole promise of technology. But a growing body of research suggests that when it comes to thinking, the friction was never the problem. It was the point."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Study That Coined a New Term"
       },
       {
@@ -1003,7 +1038,7 @@
         "text": "The researchers gave this pattern a name: cognitive debt. The idea is simple and a little unsettling. Every time you offload a mental task to an AI tool, you save effort right now — but you defer the cost. And like any debt, it accumulates interest."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "What “Debt” Actually Buys You — and Costs You"
       },
       {
@@ -1028,7 +1063,7 @@
         "text": "This tracks with a broader pattern researchers have been documenting. A 2025 survey of knowledge workers, published at the CHI conference, found that people who trusted AI outputs more reported putting in less critical thinking effort — while people who felt more confident in their own expertise engaged more critically, AI or not. The tool itself isn’t the variable. Your relationship to it is."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Why This Isn’t Really About Essays"
       },
       {
@@ -1056,7 +1091,7 @@
         "text": "None of this means the tool is bad. It means the tool is strong — strong enough that how you use it matters more than whether you use it."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Paying It Down: What Calibrated Use Looks Like"
       },
       {
@@ -1089,7 +1124,7 @@
         "text": "Notice when you stop noticing. If you’ve caught yourself pasting an answer without reading it, that’s the moment cognitive debt is compounding."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Bigger Picture"
       },
       {
@@ -1109,7 +1144,7 @@
         "text": "Sources: Kosmyna et al., “Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task,” MIT Media Lab / arXiv, 2025; Lee et al., “The Impact of Generative AI on Critical Thinking,” CHI 2025 Proceedings. This article reflects publicly available research as of September 2026."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Thank you for being a part of the community"
       },
       {
@@ -1138,6 +1173,11 @@
         "text": "Disclosure: This post includes affiliate and partnership links."
       },
       {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=a6679d424619",
+        "alt": ""
+      },
+      {
         "kind": "p",
         "text": "Cognitive Debt: The Real Price You Pay Every Time You Let AI Think For You was originally published in CodeToDeploy on Medium, where people are continuing the conversation by highlighting and responding to this story."
       }
@@ -1146,7 +1186,7 @@
   {
     "id": "5447ed68efca",
     "title": "Why Data Scientists Are Quietly Switching to Synthetic Data in 2026",
-    "url": "https://ai.plainenglish.io/why-data-scientists-are-quietly-switching-to-synthetic-data-in-2026-5447ed68efca?source=rss-35f33f9c8052------2",
+    "url": "https://ai.plainenglish.io/why-data-scientists-are-quietly-switching-to-synthetic-data-in-2026-5447ed68efca",
     "blocks": [
       {
         "kind": "p",
@@ -1162,7 +1202,7 @@
         "alt": ""
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Real Data Problem"
       },
       {
@@ -1186,7 +1226,7 @@
         "text": "Synthetic data sidesteps all three. A generative model trained on the statistical patterns of real records can produce millions of artificial but realistic examples, including rare edge cases, without exposing a single real person’s information."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Where It’s Already Working"
       },
       {
@@ -1202,7 +1242,7 @@
         "text": "• Small language models: Rather than training a massive general-purpose model, companies now generate targeted synthetic datasets to train smaller, cheaper models that run locally and handle a narrow task, like classifying support tickets, just as well."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "The Catch Nobody Advertises"
       },
       {
@@ -1214,7 +1254,7 @@
         "text": "There is also a harder, more basic question underneath the hype: synthetic data is generated by models trained on real data in the first place. If the seed data carries a bias, that bias does not disappear when it’s synthesized. It gets reproduced, and sometimes amplified, at scale."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Why This Matters for the Field"
       },
       {
@@ -1226,7 +1266,7 @@
         "text": "For working data scientists, this changes what “knowing your data” means. It’s no longer enough to understand where your real data came from. Increasingly, you also need to understand the model that generated your synthetic data, what it was trained on, and what patterns it might be quietly distorting or leaving out."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "A Practical Starting Point"
       },
       {
@@ -1254,7 +1294,7 @@
         "text": "Soumi Ganguly, Marketing Director @Dhiyantra | Technical content writer & data analyst (4+ yrs) | Bylines: Hindustan Times, The Telegraph | AI, data & geopolitics."
       },
       {
-        "kind": "h3",
+        "kind": "h2",
         "text": "Before you go"
       },
       {
@@ -1264,6 +1304,11 @@
       {
         "kind": "p",
         "text": "Did you know that over 400,000 developers share what they’re building, learning, and discovering across our platforms every month? Learn how you can contribute here."
+      },
+      {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5447ed68efca",
+        "alt": ""
       },
       {
         "kind": "p",
@@ -1474,6 +1519,161 @@
       {
         "kind": "p",
         "text": "AI Agents: The Shift From Chatbots to Autonomous Digital Workers was originally published in Artificial Intelligence in Plain English on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  },
+  {
+    "id": "16034ed1469d",
+    "title": "Small Language Models: Why 2026 Became the Year Bigger Stopped Meaning Better",
+    "url": "https://medium.com/towards-data-engineering/small-language-models-why-2026-became-the-year-bigger-stopped-meaning-better-16034ed1469d",
+    "blocks": [
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*UEB9D5ak3-y5_rO0yzm0-w.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "For three straight years, the story of AI progress was simple: more parameters, more compute, more capability. GPT-4, Claude, and Gemini captured headlines by getting bigger. Somewhere in the middle of that race, a quieter story started developing at the opposite end of the spectrum — and by 2026, it had become impossible to ignore."
+      },
+      {
+        "kind": "p",
+        "text": "Microsoft’s Phi-3.5-Mini, a model with roughly 3.8 billion parameters, started matching the performance of models forty times its size on a range of benchmarks. Google’s Gemma runs entirely on a smartphone. Alibaba’s Qwen2 fits on hardware as small as a smartwatch and still handles genuinely complex reasoning. None of these needed a data center. Small language models — SLMs — had quietly become good enough to matter."
+      },
+      {
+        "kind": "h2",
+        "text": "What Actually Changed"
+      },
+      {
+        "kind": "p",
+        "text": "The distinction is mostly about scale and where the model runs. Frontier LLMs sit in the 70-billion-to-trillion-plus parameter range and typically require cloud-hosted GPU clusters to serve. SLMs, by contrast, generally run somewhere between 1 and 13 billion parameters — small enough to fit on a phone, laptop, or embedded device without an internet connection."
+      },
+      {
+        "kind": "p",
+        "text": "What made 2026 the turning point wasn’t just that small models existed — they always had — it’s that they stopped being a compromise. Multiple industry benchmarks now show SLMs delivering around 90% of a frontier model’s practical capability at roughly 10% of the cost. Serving a 7-billion-parameter model can be 10 to 30 times cheaper than serving a 70-to-175-billion-parameter one for the same task, and that cost gap compounds fast at real usage volume."
+      },
+      {
+        "kind": "p",
+        "text": "Three engineering shifts made this possible: dedicated Neural Processing Units now shipping in most modern phone chipsets, hybrid architectures that blend state-space models with traditional attention for higher throughput, and aggressive quantization techniques — including 1.58-bit “BitNet” models that represent weights using only three values instead of the usual 32-bit floating point range."
+      },
+      {
+        "kind": "h2",
+        "text": "Why Enterprises Started Caring"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*Hk8rn77DGjgbOXVwN0JBOg.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "Cost was the first reason companies took notice, but it stopped being the only one. Gartner’s 2025 AI Infrastructure Report found that enterprise spending on locally-run models increased 40% year-over-year — and cost wasn’t the primary driver cited. Two other factors mattered just as much:"
+      },
+      {
+        "kind": "p",
+        "text": "Data residency. Running a model on-device or on-premises means sensitive data never has to leave the building, which matters enormously for regulated industries — finance, healthcare, legal — where sending customer or patient data to a third-party cloud API creates real compliance exposure."
+      },
+      {
+        "kind": "p",
+        "text": "Latency. Cloud-hosted LLMs typically introduce 500 milliseconds to 2 seconds of delay per request. For anything interactive — a voice assistant, a live customer support widget, an in-app copilot — that lag is noticeable and often unacceptable. SLMs running on NPU hardware routinely respond in under 100 milliseconds, and some benchmarks report edge latency as low as 32 milliseconds on mobile-class chips."
+      },
+      {
+        "kind": "h2",
+        "text": "Where Small Models Are Already Doing Real Work"
+      },
+      {
+        "kind": "p",
+        "text": "Adoption isn’t hypothetical anymore. Small models are already handling:"
+      },
+      {
+        "kind": "p",
+        "text": "Document processing and classification — sorting, tagging, and extracting structured data from high volumes of routine documents."
+      },
+      {
+        "kind": "p",
+        "text": "Code generation and debugging — working alongside developers on well-scoped, narrow coding tasks rather than open-ended architecture decisions."
+      },
+      {
+        "kind": "p",
+        "text": "On-device assistants — voice and text interactions that need to work offline or respond instantly."
+      },
+      {
+        "kind": "p",
+        "text": "Regulated-industry copilots — finance, legal, and medical tools where compliance requirements make cloud processing a liability rather than a convenience."
+      },
+      {
+        "kind": "p",
+        "text": "The bulk of agentic loops — parsing an input, calling a tool, formatting a structured result, repeating."
+      },
+      {
+        "kind": "p",
+        "text": "That last one has turned out to be the biggest shift. NVIDIA’s own research has made the case that small models, not frontier ones, are the right default for most steps inside an AI agent’s workflow."
+      },
+      {
+        "kind": "h2",
+        "text": "The Bigger Claim: Frontier Capability and Everyday Value Have Split Apart"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*1CcL3WgJ0iXCrZNTDHA3LA.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "The argument researchers are making now goes beyond “small models save money.” It’s that the smartest available model is rarely the one a given task actually needs. Most steps inside an agentic workflow — parsing text, calling a known tool, formatting output — don’t require frontier-level reasoning at all; they require speed, consistency, and low cost, repeated thousands of times."
+      },
+      {
+        "kind": "p",
+        "text": "That’s producing a specific architectural pattern across the industry: an SLM-first router. A small, fast, local model handles the large majority of steps in a task — commonly cited around 80 to 90% — and only escalates to a frontier cloud model when it hits something genuinely difficult or open-ended. The deciding question shifts from “which model is smartest” to “which model is cheap and private enough to run this specific loop at the scale I actually need.”"
+      },
+      {
+        "kind": "p",
+        "text": "Gartner has projected that by 2027, organizations will use small, task-specific models roughly three times more than general-purpose LLMs. That’s not a prediction that big models disappear — it’s a prediction about division of labor."
+      },
+      {
+        "kind": "h2",
+        "text": "What SLMs Still Can’t Do"
+      },
+      {
+        "kind": "p",
+        "text": "None of this makes frontier LLMs obsolete, and the more careful voices in this field are explicit about that. Small models sacrifice generality for efficiency — they’re built to be very good at a narrower set of tasks, not to match a frontier model’s breadth of open-ended reasoning. A few real limitations to keep in mind:"
+      },
+      {
+        "kind": "p",
+        "text": "Where “small” is too small. Below a certain parameter count, models start failing on tasks with genuine ambiguity or multi-step novel reasoning — the exact cases that still belong on a frontier model."
+      },
+      {
+        "kind": "p",
+        "text": "Fine-tuning still takes real work. Getting an SLM to match frontier-quality output on a specific domain usually requires deliberate fine-tuning, not just picking a smaller model off the shelf."
+      },
+      {
+        "kind": "p",
+        "text": "Routing logic adds complexity. Building a reliable system that knows when to escalate from a small model to a large one is itself a nontrivial engineering problem — one that has to be tuned per workload rather than assumed from a vendor’s headline benchmark."
+      },
+      {
+        "kind": "p",
+        "text": "Benchmarks vary by task. A model that performs well on general knowledge tests may still underperform on a company’s specific, narrow use case — practitioners increasingly recommend benchmarking a candidate model on your own data before committing to it."
+      },
+      {
+        "kind": "p",
+        "text": "The practical takeaway for 2026 isn’t “switch everything to small models.” It’s closer to what one industry researcher put it plainly: stop paying jet fares to deliver letters. Match the model to the job — and for a large share of everyday AI work, that job has turned out to be smaller than the industry originally assumed."
+      },
+      {
+        "kind": "p",
+        "text": "…………………………………………………………………………………………………"
+      },
+      {
+        "kind": "p",
+        "text": "Sources: Zylos Research, “Small Language Models and Edge AI: The 2026 Shift to Local Intelligence,” February 2026; InfoWorld, “Small language models: Rethinking enterprise AI architecture,” May 2026; Digital Applied, “Small Language Models for On-Device Agents in 2026,” June 2026; Knolli, “Small Language Models: A Complete Guide for 2026.” This article reflects publicly available information as of September 2026."
+      },
+      {
+        "kind": "image",
+        "text": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=16034ed1469d",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "Small Language Models: Why 2026 Became the Year Bigger Stopped Meaning Better was originally published in Towards Data Engineering on Medium, where people are continuing the conversation by highlighting and responding to this story."
       }
     ]
   }

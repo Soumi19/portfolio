@@ -458,6 +458,19 @@
   ],
   "articles": [
     {
+      "title": "Small Language Models: Why 2026 Became the Year Bigger Stopped Meaning Better",
+      "url": "https://medium.com/towards-data-engineering/small-language-models-why-2026-became-the-year-bigger-stopped-meaning-better-16034ed1469d",
+      "source": "Medium",
+      "date": "2026-10-04",
+      "readerId": "16034ed1469d",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*UEB9D5ak3-y5_rO0yzm0-w.png",
+      "excerpt": "For three straight years, the story of AI progress was simple: more parameters, more compute, more capability. GPT-4, Claude, and Gemini captured headlines by getting bigger. Somewhere in the middle of that race, a quieter story started dev",
+      "id": "16034ed1469d",
+      "slug": "16034ed1469d",
+      "category": "Published Writing",
+      "tags": []
+    },
+    {
       "title": "The Hidden Cost of Broken Hiring — And How AI Startups Are Fixing It",
       "url": "https://medium.com/startup-insider-edge/the-hidden-cost-of-broken-hiring-and-how-ai-startups-are-fixing-it-74b7464cd2ea?source=rss-35f33f9c8052------2",
       "source": "Medium",
@@ -732,5 +745,5 @@
       "text": "Time-series modelling with AIC/BIC model selection and rolling-origin validation for daily air-quality data."
     }
   ],
-  "exportedAt": "2026-10-05T01:51:29.593Z"
+  "exportedAt": "2026-10-06T15:54:05.963Z"
 }

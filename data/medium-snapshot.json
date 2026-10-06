@@ -1,84 +1,93 @@
 [
   {
-    "title": "The Hidden Cost of Broken Hiring \u2014 And How AI Startups Are Fixing It",
-    "url": "https://medium.com/startup-insider-edge/the-hidden-cost-of-broken-hiring-and-how-ai-startups-are-fixing-it-74b7464cd2ea?source=rss-35f33f9c8052------2",
+    "title": "Small Language Models: Why 2026 Became the Year Bigger Stopped Meaning Better",
+    "url": "https://medium.com/towards-data-engineering/small-language-models-why-2026-became-the-year-bigger-stopped-meaning-better-16034ed1469d",
+    "source": "Medium",
+    "date": "2026-10-04",
+    "readerId": "16034ed1469d",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*UEB9D5ak3-y5_rO0yzm0-w.png",
+    "excerpt": "For three straight years, the story of AI progress was simple: more parameters, more compute, more capability. GPT-4, Claude, and Gemini captured headlines by getting bigger. Somewhere in the middle of that race, a quieter story started dev"
+  },
+  {
+    "title": "The Hidden Cost of Broken Hiring — And How AI Startups Are Fixing It",
+    "url": "https://medium.com/startup-insider-edge/the-hidden-cost-of-broken-hiring-and-how-ai-startups-are-fixing-it-74b7464cd2ea",
     "source": "Medium",
     "date": "2026-09-29",
-    "image": "https://miro.medium.com/v2/resize:fit:800/1*SGzAHD0opXLqgX42gAtCzw.png",
     "readerId": "74b7464cd2ea",
-    "excerpt": "Every year, companies spend billions of dollars trying to hire the right people\u200a\u2014\u200aand still get it wrong. The average corporate job opening receives hundreds of applications, most of which a human\u2026"
+    "image": "https://cdn-images-1.medium.com/max/1024/1*SGzAHD0opXLqgX42gAtCzw.png",
+    "excerpt": "Every year, companies spend billions of dollars trying to hire the right people — and still get it wrong. The average corporate job opening receives hundreds of applications, most of which a human recruiter will never fully read. This isn’t"
   },
   {
     "title": "The Rise of AI Startups: Why Everyone Is Talking About Them",
-    "url": "https://medium.com/startup-insider-edge/the-rise-of-ai-startups-why-everyone-is-talking-about-them-c0c98fe80aaa?source=rss-35f33f9c8052------2",
+    "url": "https://medium.com/startup-insider-edge/the-rise-of-ai-startups-why-everyone-is-talking-about-them-c0c98fe80aaa",
     "source": "Medium",
     "date": "2026-09-27",
-    "image": "https://miro.medium.com/v2/resize:fit:800/1*5i3Rbzc3krJpbYDGQ7205g.png",
     "readerId": "c0c98fe80aaa",
-    "excerpt": "Artificial Intelligence (AI) is no longer just a buzzword. It has become one of the biggest business trends of this decade. Every week, new AI startups are launching, raising funding, and trying to\u2026"
+    "image": "https://cdn-images-1.medium.com/max/1024/1*5i3Rbzc3krJpbYDGQ7205g.png",
+    "excerpt": "Artificial Intelligence (AI) is no longer just a buzzword. It has become one of the biggest business trends of this decade. Every week, new AI startups are launching, raising funding, and trying to change how we work, shop, learn, and live."
   },
   {
-    "title": "The Agentic Browser Wars: Why ChatGPT\u2019s Browser Died in Under a Year While Others Are Just Getting\u2026",
-    "url": "https://pub.towardsai.net/the-agentic-browser-wars-why-chatgpts-browser-died-in-under-a-year-while-others-are-just-getting-fce5c2d7e548?source=rss-35f33f9c8052------2",
+    "title": "The Agentic Browser Wars: Why ChatGPT’s Browser Died in Under a Year While Others Are Just Getting…",
+    "url": "https://pub.towardsai.net/the-agentic-browser-wars-why-chatgpts-browser-died-in-under-a-year-while-others-are-just-getting-fce5c2d7e548",
     "source": "Medium",
     "date": "2026-09-26",
-    "image": "https://miro.medium.com/v2/resize:fit:800/1*bmsoqcmWWJbn1_ozqmxUrA.png",
     "readerId": "fce5c2d7e548",
-    "excerpt": "On October 21, 2025, OpenAI launched a dedicated web browser called ChatGPT Atlas, built around a bold idea: what if the browser itself could think for you? Less than ten months later, on August 9,\u2026"
+    "image": "https://cdn-images-1.medium.com/max/1024/1*bmsoqcmWWJbn1_ozqmxUrA.png",
+    "excerpt": "On October 21, 2025, OpenAI launched a dedicated web browser called ChatGPT Atlas, built around a bold idea: what if the browser itself could think for you? Less than ten months later, on August 9, 2026, it quietly stopped working. OpenAI f"
   },
   {
     "title": "World Models: The Quiet Race to Build AI That Understands Reality, Not Just Language",
-    "url": "https://www.towardsdeeplearning.com/world-models-the-quiet-race-to-build-ai-that-understands-reality-not-just-language-2cbb721a5c42?source=rss-35f33f9c8052------2",
+    "url": "https://www.towardsdeeplearning.com/world-models-the-quiet-race-to-build-ai-that-understands-reality-not-just-language-2cbb721a5c42",
     "source": "Medium",
     "date": "2026-09-23",
     "readerId": "2cbb721a5c42",
-    "image": "https://miro.medium.com/v2/resize:fit:800/1*ASrM5Tc6PUWQpz5rL3lpCw.png",
-    "excerpt": "While most of the public conversation about generative AI has been about chatbots and image generators, a different race has been building quietly in research labs\u200a\u2014\u200aone aimed at something more\u2026"
+    "image": "https://cdn-images-1.medium.com/max/1024/1*ASrM5Tc6PUWQpz5rL3lpCw.png",
+    "excerpt": "While most of the public conversation about generative AI has been about chatbots and image generators, a different race has been building quietly in research labs — one aimed at something more ambitious than answering questions or making p"
   },
   {
-    "title": "BRICS: Why India\u2019s bet on practical ties matters",
-    "url": "https://medium.com/@soumiganguly2021/brics-why-indias-bet-on-practical-ties-matters-0d095ca062a2?source=rss-35f33f9c8052------2",
+    "title": "BRICS: Why India’s bet on practical ties matters",
+    "url": "https://medium.com/@soumiganguly2021/brics-why-indias-bet-on-practical-ties-matters-0d095ca062a2",
     "source": "Medium",
     "date": "2026-09-23",
     "readerId": "0d095ca062a2",
     "image": "https://cdn-images-1.medium.com/max/400/0*NP8q-gkZSLi5Uu4D.jpg",
-    "excerpt": "Prime Minister Narendra Modi addresses the open session of the BRICS Summit 2026, in New\u2026"
+    "excerpt": "Prime Minister Narendra Modi addresses the open session of the BRICS Summit 2026, in New Delhi, (PMO)"
   },
   {
     "title": "Context Engineering: The Skill That Quietly Replaced Prompt Engineering",
-    "url": "https://medium.com/towards-data-engineering/context-engineering-the-skill-that-quietly-replaced-prompt-engineering-571e51974b2c?source=rss-35f33f9c8052------2",
+    "url": "https://medium.com/towards-data-engineering/context-engineering-the-skill-that-quietly-replaced-prompt-engineering-571e51974b2c",
     "source": "Medium",
     "date": "2026-09-17",
     "readerId": "571e51974b2c",
-    "image": "https://miro.medium.com/v2/resize:fit:800/1*FKCEDcQc2hhgfA9PRihjYQ.png",
-    "excerpt": "In 2023, \u201cprompt engineer\u201d was being called one of the hottest new job titles of the decade. By mid-2025, the term was already starting to feel dated\u200a\u2014\u200anot because prompting stopped mattering, but\u2026"
+    "image": "https://cdn-images-1.medium.com/max/1024/1*FKCEDcQc2hhgfA9PRihjYQ.png",
+    "excerpt": "In 2023, “prompt engineer” was being called one of the hottest new job titles of the decade. By mid-2025, the term was already starting to feel dated — not because prompting stopped mattering, but because the industry realized it had been n"
   },
   {
-    "title": "Vibe Coding\u2019s Shaky Foundations: What Cursor\u2019s CEO Just Warned Every Developer About",
-    "url": "https://medium.com/towards-data-engineering/vibe-codings-shaky-foundations-what-cursor-s-ceo-just-warned-every-developer-about-3f0aa780f934?source=rss-35f33f9c8052------2",
+    "title": "Vibe Coding’s Shaky Foundations: What Cursor’s CEO Just Warned Every Developer About",
+    "url": "https://medium.com/towards-data-engineering/vibe-codings-shaky-foundations-what-cursor-s-ceo-just-warned-every-developer-about-3f0aa780f934",
     "source": "Medium",
     "date": "2026-09-17",
     "readerId": "3f0aa780f934",
-    "image": "https://miro.medium.com/v2/resize:fit:800/1*r7DQB5Mn9fcZGFBeNjVu6Q.png",
-    "excerpt": "The CEO of one of the fastest-growing AI coding startups on the planet just told a room full of developers: be careful with the thing that made you\u2026"
+    "image": "https://cdn-images-1.medium.com/max/1024/1*r7DQB5Mn9fcZGFBeNjVu6Q.png",
+    "excerpt": "The CEO of one of the fastest-growing AI coding startups on the planet just told a room full of developers: be careful with the thing that made you successful."
   },
   {
     "title": "Cognitive Debt: The Real Price You Pay Every Time You Let AI Think For You",
-    "url": "https://medium.com/codetodeploy/cognitive-debt-the-real-price-you-pay-every-time-you-let-ai-think-for-you-a6679d424619?source=rss-35f33f9c8052------2",
+    "url": "https://medium.com/codetodeploy/cognitive-debt-the-real-price-you-pay-every-time-you-let-ai-think-for-you-a6679d424619",
     "source": "Medium",
     "date": "2026-09-12",
     "readerId": "a6679d424619",
-    "image": "https://miro.medium.com/v2/resize:fit:800/1*dcvW3vWqbfDfAVYXsWsVBA.png",
-    "excerpt": "There\u2019s a number that should worry you more than any AI benchmark: zero. That\u2019s roughly how much mental effort it takes to get a decent-looking essay, summary, or answer out of a chatbot today. No\u2026"
+    "image": "https://cdn-images-1.medium.com/max/1024/1*dcvW3vWqbfDfAVYXsWsVBA.png",
+    "excerpt": "There’s a number that should worry you more than any AI benchmark: zero. That’s roughly how much mental effort it takes to get a decent-looking essay, summary, or answer out of a chatbot today. No struggling with a blank page. No wrong turn"
   },
   {
     "title": "Why Data Scientists Are Quietly Switching to Synthetic Data in 2026",
-    "url": "https://ai.plainenglish.io/why-data-scientists-are-quietly-switching-to-synthetic-data-in-2026-5447ed68efca?source=rss-35f33f9c8052------2",
+    "url": "https://ai.plainenglish.io/why-data-scientists-are-quietly-switching-to-synthetic-data-in-2026-5447ed68efca",
     "source": "Medium",
     "date": "2026-09-09",
     "readerId": "5447ed68efca",
-    "image": "https://miro.medium.com/v2/resize:fit:800/1*OKG1wyoU2Fuc4lxPNgXS9A.png",
-    "excerpt": "For most of the last decade, data scientists lived by one rule: real data beats fake data, always. In 2026, that rule is breaking down. Across fraud detection, healthcare, and customer analytics,\u2026"
+    "image": "https://cdn-images-1.medium.com/max/1024/1*OKG1wyoU2Fuc4lxPNgXS9A.png",
+    "excerpt": "For most of the last decade, data scientists lived by one rule: real data beats fake data, always. In 2026, that rule is breaking down. Across fraud detection, healthcare, and customer analytics, teams are training models on data that was n"
   },
   {
     "title": "AI Agents: The Shift From Chatbots to Autonomous Digital Workers",
@@ -87,6 +96,6 @@
     "date": "2026-09-08",
     "readerId": "6c55b144732d",
     "image": "https://miro.medium.com/v2/resize:fit:800/1*QjmtMpwQYglJ90PkTm_CIQ.png",
-    "excerpt": "Over the past couple of years, the word attached most often to \u201cAI\u201d has been \u201cagent.\u201d In 2023\u201324, most of us were simply asking chatbots questions and getting answers back. By 2026, those same\u2026"
+    "excerpt": "Over the past couple of years, the word attached most often to “AI” has been “agent.” In 2023–24, most of us were simply asking chatbots questions and getting answers back. By 2026, those same…"
   }
 ]
