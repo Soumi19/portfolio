@@ -1,0 +1,1 @@
+(()=>{const obs='IntersectionObserver'in window?new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('v7-visible');obs.unobserve(e.target)}}),{threshold:.08}):null;document.querySelectorAll('.connect-panel,.review-card').forEach(el=>{el.classList.add('v7-reveal');if(obs)obs.observe(el);else el.classList.add('v7-visible')})})();

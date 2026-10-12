@@ -1,0 +1,24 @@
+name: Discover potential publications
+on:
+  schedule:
+    - cron: '30 4 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/discover_publications.py
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: 'Review newly discovered publication candidates'
+          title: 'Review potential Soumi Ganguly publications'
+          body: 'Potential search results only. Verify author identity and publication URL before moving approved items into publications-approved.json. Do not publish unrelated results.'
+          branch: automation/publication-candidates
+          add-paths: publication-candidates.json

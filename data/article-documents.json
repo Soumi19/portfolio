@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "74b7464cd2ea",
+    "title": "The Hidden Cost of Broken Hiring — And How AI Startups Are Fixing It",
+    "url": "https://medium.com/startup-insider-edge/the-hidden-cost-of-broken-hiring-and-how-ai-startups-are-fixing-it-74b7464cd2ea?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*SGzAHD0opXLqgX42gAtCzw.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "Every year, companies spend billions of dollars trying to hire the right people — and still get it wrong. The average corporate job opening receives hundreds of applications, most of which a human recruiter will never fully read. This isn’t a minor inefficiency; it’s a systemic problem that costs businesses time, money, and talent. This is exactly the kind of problem a new wave of AI startups has decided to tackle head-on."
+      },
+      {
+        "kind": "h3",
+        "text": "The Real Problem: Hiring Is Broken at Scale"
+      },
+      {
+        "kind": "p",
+        "text": "Recruiting today suffers from a few specific, measurable pain points:"
+      },
+      {
+        "kind": "p",
+        "text": "Resume overload: Popular job postings can attract 500+ applications within days, far more than any human team can properly screen."
+      },
+      {
+        "kind": "p",
+        "text": "Bias and inconsistency: Two recruiters reviewing the same resume often reach different conclusions, leading to inconsistent, sometimes unfair, decisions."
+      },
+      {
+        "kind": "p",
+        "text": "Slow time-to-hire: The average hiring process stretches over weeks, causing companies to lose strong candidates to faster-moving competitors."
+      },
+      {
+        "kind": "p",
+        "text": "Poor candidate experience: Applicants frequently submit resumes into a black hole, never hearing back — damaging a company’s reputation in the process."
+      },
+      {
+        "kind": "p",
+        "text": "These aren’t abstract inconveniences. Lost time and bad hires directly hurt revenue, team morale, and growth."
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*xsFIBatTTXviYoV_FjsB7A.png",
+        "alt": ""
+      },
+      {
+        "kind": "h3",
+        "text": "The Solution: AI-Native Recruiting Startups"
+      },
+      {
+        "kind": "p",
+        "text": "A growing category of AI startups has built products specifically designed around this problem. Instead of treating AI as a small add-on feature, these companies put AI at the core of the hiring workflow:"
+      },
+      {
+        "kind": "p",
+        "text": "Automated resume screening — Machine learning models parse thousands of resumes in minutes, ranking candidates against the actual requirements of a role rather than just keyword matches."
+      },
+      {
+        "kind": "p",
+        "text": "Structured interview analysis — Some tools use natural language processing to evaluate interview transcripts for skill signals, reducing the influence of unconscious bias."
+      },
+      {
+        "kind": "p",
+        "text": "Conversational AI screening agents — Instead of a static form, candidates now interact with an AI assistant that asks follow-up questions, clarifies experience, and creates a much richer profile than a resume alone."
+      },
+      {
+        "kind": "p",
+        "text": "Predictive fit scoring — By analyzing patterns from past successful hires, some platforms predict how likely a candidate is to succeed and stay long-term in a specific role."
+      },
+      {
+        "kind": "p",
+        "text": "The result: companies using these tools report cutting screening time from weeks to days, while candidates get faster responses and more transparent feedback."
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*APgzsGmeUs8JhsovWmNShA.png",
+        "alt": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Why This Matters Beyond Hiring"
+      },
+      {
+        "kind": "p",
+        "text": "The hiring problem is a good example of a broader pattern in successful AI startups: they don’t try to “add AI” to everything. They pick one expensive, well-defined, high-friction problem and solve it end-to-end. That focus — a real problem, backed by a measurable solution — is usually the difference between a startup that raises funding and grows, and one that quietly disappears."
+      },
+      {
+        "kind": "p",
+        "text": "The Hidden Cost of Broken Hiring — And How AI Startups Are Fixing It was originally published in StartupInsider on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  },
+  {
+    "id": "c0c98fe80aaa",
+    "title": "The Rise of AI Startups: Why Everyone Is Talking About Them",
+    "url": "https://medium.com/startup-insider-edge/the-rise-of-ai-startups-why-everyone-is-talking-about-them-c0c98fe80aaa?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "p",
+        "text": "Artificial Intelligence (AI) is no longer just a buzzword. It has become one of the biggest business trends of this decade. Every week, new AI startups are launching, raising funding, and trying to change how we work, shop, learn, and live. In this article, we will look at why AI startups are booming, what makes them different, and what challenges they face."
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*5i3Rbzc3krJpbYDGQ7205g.png",
+        "alt": ""
+      },
+      {
+        "kind": "h3",
+        "text": "What Is an AI Startup?"
+      },
+      {
+        "kind": "p",
+        "text": "An AI startup is a small, new company that builds its product or service around artificial intelligence. This could mean:"
+      },
+      {
+        "kind": "p",
+        "text": "A chatbot that helps businesses answer customer questions"
+      },
+      {
+        "kind": "p",
+        "text": "A tool that writes code automatically"
+      },
+      {
+        "kind": "p",
+        "text": "An app that creates images or videos from text"
+      },
+      {
+        "kind": "p",
+        "text": "Software that helps doctors read medical scans faster"
+      },
+      {
+        "kind": "p",
+        "text": "Unlike older tech companies, AI startups often use machine learning models to do tasks that used to need a human."
+      },
+      {
+        "kind": "h3",
+        "text": "Why Are So Many AI Startups Appearing Now?"
+      },
+      {
+        "kind": "p",
+        "text": "There are a few clear reasons behind this trend:"
+      },
+      {
+        "kind": "p",
+        "text": "1. Better and cheaper AI models\nLarge language models and other AI tools have become much more powerful in the last few years. At the same time, using these models has gotten cheaper, so small teams can build products that once needed huge budgets."
+      },
+      {
+        "kind": "p",
+        "text": "2. Easy access to tools\nCloud platforms, open-source models, and simple developer tools mean a small team — sometimes just two or three people — can build and launch a working AI product in weeks, not years."
+      },
+      {
+        "kind": "p",
+        "text": "3. Investor interest\nInvestors are excited about AI. Many venture capital firms are putting large amounts of money into AI startups, hoping to find the “next big thing.”"
+      },
+      {
+        "kind": "p",
+        "text": "4. Real business demand\nCompanies want to save time and money. AI tools that automate repetitive tasks are attractive to businesses of every size."
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*UvOxynm8Gx0VcBDxv7Fgdg.png",
+        "alt": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Common Types of AI Startups"
+      },
+      {
+        "kind": "p",
+        "text": "Productivity tools — AI assistants that help with writing, scheduling, or organizing work"
+      },
+      {
+        "kind": "p",
+        "text": "Customer support — Chatbots and voice agents that handle customer questions"
+      },
+      {
+        "kind": "p",
+        "text": "Content creation — Tools for writing, image generation, or video editing"
+      },
+      {
+        "kind": "p",
+        "text": "Healthcare AI — Software that helps with diagnosis, drug research, or patient care"
+      },
+      {
+        "kind": "p",
+        "text": "Coding assistants — Tools that help developers write and fix code faster"
+      },
+      {
+        "kind": "p",
+        "text": "AI infrastructure — Companies that build the “behind the scenes” tools other AI companies need, like data storage or model training platforms"
+      },
+      {
+        "kind": "h3",
+        "text": "Challenges AI Startups Face"
+      },
+      {
+        "kind": "p",
+        "text": "Starting an AI company is exciting, but it is not easy. Some common challenges include:"
+      },
+      {
+        "kind": "p",
+        "text": "High costs — Training and running AI models can be expensive, especially as a product grows."
+      },
+      {
+        "kind": "p",
+        "text": "Fierce competition — Because it’s easy to start, many startups build similar products, making it hard to stand out."
+      },
+      {
+        "kind": "p",
+        "text": "Big tech competition — Giant companies like Google, Microsoft, and Meta build similar tools, which can be hard for small startups to compete with."
+      },
+      {
+        "kind": "p",
+        "text": "Trust and safety — Users want to know their data is safe and that the AI gives accurate, fair answers."
+      },
+      {
+        "kind": "p",
+        "text": "Finding real customers — Having good technology is not enough. Startups still need to find people willing to pay for their product."
+      },
+      {
+        "kind": "h3",
+        "text": "Tips for Anyone Thinking About Starting an AI Company"
+      },
+      {
+        "kind": "p",
+        "text": "Solve a real problem — Don’t build AI just because it’s trendy. Find a specific problem people actually have."
+      },
+      {
+        "kind": "p",
+        "text": "Start small — Build a simple version first, get feedback, and improve it step by step."
+      },
+      {
+        "kind": "p",
+        "text": "Focus on one thing — Trying to do everything at once often fails. Pick one clear use case and do it well."
+      },
+      {
+        "kind": "p",
+        "text": "Think about trust — Be transparent about how your AI works and how you handle user data."
+      },
+      {
+        "kind": "p",
+        "text": "Watch your costs — Keep track of how much it costs to run your AI, especially as more users join."
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*WLC_-kl1j4g8PreMEKkYCQ.png",
+        "alt": ""
+      },
+      {
+        "kind": "h3",
+        "text": "The Future of AI Startups"
+      },
+      {
+        "kind": "p",
+        "text": "AI startups are still in an early, fast-changing stage. Some will grow into major companies. Many others will fail or get bought by bigger companies — this is normal in any new industry. What’s clear is that AI is changing how software gets built and how businesses operate, and startups are leading much of that change."
+      },
+      {
+        "kind": "p",
+        "text": "Whether you’re an entrepreneur, a job seeker, or just someone curious about technology, understanding AI startups is becoming an important part of understanding the future of business."
+      },
+      {
+        "kind": "p",
+        "text": "The Rise of AI Startups: Why Everyone Is Talking About Them was originally published in StartupInsider on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  },
+  {
+    "id": "fce5c2d7e548",
+    "title": "The Agentic Browser Wars: Why ChatGPT’s Browser Died in Under a Year While Others Are Just Getting…",
+    "url": "https://pub.towardsai.net/the-agentic-browser-wars-why-chatgpts-browser-died-in-under-a-year-while-others-are-just-getting-fce5c2d7e548?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "h3",
+        "text": "The Agentic Browser Wars: Why ChatGPT’s Browser Died in Under a Year While Others Are Just Getting Started"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*bmsoqcmWWJbn1_ozqmxUrA.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "On October 21, 2025, OpenAI launched a dedicated web browser called ChatGPT Atlas, built around a bold idea: what if the browser itself could think for you? Less than ten months later, on August 9, 2026, it quietly stopped working. OpenAI folded its agent features back into the core ChatGPT app and a Chrome extension instead, and outside the AI press, almost nobody noticed it was gone."
+      },
+      {
+        "kind": "p",
+        "text": "That’s a strange outcome for a product category everyone agrees is the future. Because while Atlas was dying, its closest rivals — Perplexity’s Comet and Anthropic’s Claude for Chrome — were doing the opposite: growing fast enough to reshape what a browser is even supposed to do."
+      },
+      {
+        "kind": "h3",
+        "text": "From “Search and Read” to “Ask and Receive”"
+      },
+      {
+        "kind": "p",
+        "text": "For fifteen years, the browser’s job barely changed: render a page, let a human read it, let a human click things. What’s shifting in 2026 is the addition of a new layer sitting on top of that — one where an AI agent reads the page, decides what needs to happen, and clicks, fills, and submits on your behalf."
+      },
+      {
+        "kind": "p",
+        "text": "That’s the core distinction between a traditional browser and what the industry now calls an agentic browser. A traditional browser is a window onto the web. An agentic browser is an execution layer on top of it — capable of planning a multi-step task and carrying it out across several sites without a person clicking through each one."
+      },
+      {
+        "kind": "h3",
+        "text": "A Crowded, Fast-Moving Field"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*yaaa46wuG-3H1NWZwUKI7A.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "By late 2025, nearly every major AI company had entered this race, each with a different bet on where the “agent” part of an agentic browser should live:"
+      },
+      {
+        "kind": "p",
+        "text": "OpenAI’s Atlas bet on a standalone browser, and lost that bet — its own product page confirmed the shutdown after less than a year on the market."
+      },
+      {
+        "kind": "p",
+        "text": "Perplexity’s Comet took the opposite path: keep the base browser free, charge only for the deepest autonomous features. It launched on Windows and macOS in July 2025, went free that October, reached Android in August 2026, and was reportedly approaching 18 million monthly active users by mid-2026 — while raising $200 million at close to a $20 billion valuation to keep scaling."
+      },
+      {
+        "kind": "p",
+        "text": "Anthropic’s Claude for Chrome took a third approach entirely: don’t build a new browser, extend the one people already use. According to Chrome Web Store data, it grew from roughly 40,000 installs in December 2025 to more than 10 million by June 2026."
+      },
+      {
+        "kind": "p",
+        "text": "Google folded its own standalone effort, Project Mariner, into a feature called Chrome Auto Browse rather than keeping it separate — betting that Chrome’s enormous existing install base matters more than a flashy new app."
+      },
+      {
+        "kind": "p",
+        "text": "Apple took the narrowest approach of all: at WWDC 2026, it shipped an agentic feature limited to one task — Safari’s Passwords app can now visit sites and fix insecure passwords on its own, a small, contained job that fits Apple’s privacy-first instincts."
+      },
+      {
+        "kind": "p",
+        "text": "The pattern across nearly every winner so far is the same: bolt the agent onto something people already use, rather than asking them to adopt an entirely new browser. Atlas is the clearest case of the strategy that didn’t work; Comet, positioned as a genuinely new product with real differentiation for research and citation-heavy work, is the notable exception that’s holding its ground anyway."
+      },
+      {
+        "kind": "h3",
+        "text": "What This Is Already Being Used For"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*WPtNQghAHmOQY8nAjf_new.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "This isn’t confined to demos anymore. Real, current use cases include:"
+      },
+      {
+        "kind": "p",
+        "text": "Shopping and checkout — comparing products across sites, filling in shipping and payment details, and completing purchases with minimal back-and-forth."
+      },
+      {
+        "kind": "p",
+        "text": "Enterprise workflows — procurement, support, and compliance teams still rely on web portals and legacy tools with no modern API; an agent that can navigate the existing interface sidesteps building a custom integration for each one."
+      },
+      {
+        "kind": "p",
+        "text": "Research and synthesis — pulling information from multiple sources, summarizing it, and citing where each claim came from, which is where Comet in particular has built its niche."
+      },
+      {
+        "kind": "p",
+        "text": "Narrow, high-trust security tasks — Apple’s password-repair feature shows a more conservative model: let the agent act, but only where the blast radius of a mistake is small and contained."
+      },
+      {
+        "kind": "h3",
+        "text": "The Bigger Claim: A New “Front Door” to the Web"
+      },
+      {
+        "kind": "p",
+        "text": "The companies racing hardest in this space aren’t framing it as a browser feature update. Perplexity’s leadership has described Comet as securing the “front door” to what they call the agent economy — the idea being that whoever controls the interface people use to act on the web controls a meaningful chokepoint in how AI agents transact, shop, and work on people’s behalf going forward."
+      },
+      {
+        "kind": "p",
+        "text": "That’s a real strategic bet, not just marketing language. If AI agents increasingly complete tasks that used to require a person clicking through a website, the browser stops being a passive viewer and becomes the layer where value actually gets captured — which is exactly why five or six well-funded companies are fighting over it at once instead of one clear winner emerging quickly."
+      },
+      {
+        "kind": "h3",
+        "text": "What’s Still Unsettled"
+      },
+      {
+        "kind": "p",
+        "text": "For all the growth numbers, this category is still working through some serious open problems:"
+      },
+      {
+        "kind": "p",
+        "text": "Security. Every capability that lets an agent act — filling a form, clicking a confirmation, entering payment details — is also a new surface for prompt injection, where hidden instructions on a malicious page trick the agent into doing something the user never asked for. Vendors have added confirmation steps, but even Google’s own documentation acknowledges those safeguards don’t eliminate the risk."
+      },
+      {
+        "kind": "p",
+        "text": "Trust and account access. Letting an AI agent act inside your logged-in accounts is a much bigger ask than letting it summarize a page, and adoption numbers so far suggest plenty of people are still deciding how comfortable they are with that."
+      },
+      {
+        "kind": "p",
+        "text": "Business model. Atlas’s failure suggests that a standalone browser alone isn’t a strong enough reason to switch — the agent has to be good enough, or embedded deeply enough into a tool people already rely on, to justify the change."
+      },
+      {
+        "kind": "p",
+        "text": "Fragmentation. With Comet, Claude for Chrome, Gemini’s Auto Browse, and Edge all pursuing slightly different visions of “agentic,” there’s no shared standard yet for how safely or consistently these agents should behave across the wider web."
+      },
+      {
+        "kind": "p",
+        "text": "Atlas’s rise and fall in under a year is a useful reminder that “agentic” being the obvious future doesn’t mean every specific bet on it survives contact with actual users. The browser is genuinely being rebuilt around AI agents right now — just not in the shape, or by the company, most people expected a year ago."
+      },
+      {
+        "kind": "p",
+        "text": "…………………………………………………………………………………………………"
+      },
+      {
+        "kind": "p",
+        "text": "Sources: Tech Insider, “Perplexity Comet vs ChatGPT Atlas vs Gemini Agent,” September 2026; SearchViu, “Atlas, Comet, Claude for Chrome: The AI Browser Landscape in 2026,” August 2026; No Hacks, “The Agentic Browser Landscape in 2026,” July 2026; Yoopya News, “AI Browser War 2026,” July 2026. This article reflects publicly available information as of September 2026."
+      },
+      {
+        "kind": "p",
+        "text": "The Agentic Browser Wars: Why ChatGPT’s Browser Died in Under a Year While Others Are Just Getting… was originally published in Towards AI on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  },
+  {
+    "id": "2cbb721a5c42",
+    "title": "World Models: The Quiet Race to Build AI That Understands Reality, Not Just Language",
+    "url": "https://www.towardsdeeplearning.com/world-models-the-quiet-race-to-build-ai-that-understands-reality-not-just-language-2cbb721a5c42?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*ASrM5Tc6PUWQpz5rL3lpCw.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "While most of the public conversation about generative AI has been about chatbots and image generators, a different race has been building quietly in research labs — one aimed at something more ambitious than answering questions or making pictures. The goal: AI that can generate an entire explorable environment, understand how it behaves, and predict what happens next inside it."
+      },
+      {
+        "kind": "p",
+        "text": "These are called world models, and 2025 into 2026 turned out to be the moment they left the research lab and became something people could actually try."
+      },
+      {
+        "kind": "h3",
+        "text": "What Makes a World Model Different"
+      },
+      {
+        "kind": "p",
+        "text": "A language model like ChatGPT or Claude is, underneath, a next-word predictor. Feed it a sequence of text, and it predicts what’s most likely to come next. That simple mechanism, scaled up, turned out to be enough to produce something that can reason, write, and code."
+      },
+      {
+        "kind": "p",
+        "text": "A world model applies the same basic idea to a completely different kind of data: instead of predicting the next word, it predicts the next frame. Trained on video and interactive footage rather than text, it learns not what words mean, but how a physical scene evolves — what happens when a ball rolls off a table, what a room looks like from a different angle, how a character’s shadow should move as they walk."
+      },
+      {
+        "kind": "p",
+        "text": "The most visible proof of concept came from Google DeepMind’s Genie 3, unveiled in 2025. Genie 3 generates fully navigable 3D environments from a simple text prompt, rendering at 24 frames per second and holding visual consistency for several minutes of real-time exploration — a huge leap from earlier systems that could only produce a few seconds of coherent video. In January 2026, Google opened a version of it to AI Ultra subscribers through a prototype called Project Genie, and later extended it at Google I/O 2026 with a Street View integration that can turn real-world locations into explorable simulations."
+      },
+      {
+        "kind": "h3",
+        "text": "An Increasingly Crowded Race"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*WDANEHXKpfbLnO_2Fg8vfw.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "Genie isn’t alone. The period researchers now describe as the start of the “world model race” pulled in a striking number of serious players, fast:"
+      },
+      {
+        "kind": "p",
+        "text": "Fei-Fei Li’s World Labs launched Marble, the first commercially available world-model product, with pricing tiers from free up to $95 a month."
+      },
+      {
+        "kind": "p",
+        "text": "NVIDIA’s Cosmos platform, aimed at robotics and autonomous-vehicle developers, has reportedly seen millions of downloads as companies look for physics-aware synthetic training data."
+      },
+      {
+        "kind": "p",
+        "text": "Meta announced WorldGen, research capable of generating walkable 3D worlds from short prompts."
+      },
+      {
+        "kind": "p",
+        "text": "Tencent open-sourced HY World, alongside a 3D content generation studio of its own."
+      },
+      {
+        "kind": "p",
+        "text": "Yann LeCun, after twelve years at Meta, left to start a new company betting that understanding physics — not predicting text — is the more important road toward general AI, raising hundreds of millions of euros to pursue it."
+      },
+      {
+        "kind": "p",
+        "text": "That last move is probably the clearest signal of how seriously the field is taking this direction. One of the most senior researchers in AI walked away from a major lab specifically to chase world models full-time."
+      },
+      {
+        "kind": "h3",
+        "text": "Not Just a Research Curiosity"
+      },
+      {
+        "kind": "p",
+        "text": "What separates this moment from earlier “AI makes 3D scenes” demos is that world models are already being put to work in industries that can’t tolerate a toy that just looks impressive:"
+      },
+      {
+        "kind": "p",
+        "text": "Autonomous vehicles. Waymo has used Genie 3 to build a customized world model for simulating rare, dangerous edge cases — the kind of scenario that’s too risky, or simply too rare, to wait for in the real world before training on it."
+      },
+      {
+        "kind": "p",
+        "text": "Robotics. Companies training robots to move through physical spaces are using world models as a virtually unlimited, low-cost training ground, generating far more practice scenarios than could ever be filmed or staged."
+      },
+      {
+        "kind": "p",
+        "text": "Game design. Studios are experimenting with generating playable environments directly from a text description, compressing what used to be weeks of level design into a prompt."
+      },
+      {
+        "kind": "p",
+        "text": "AI agent training. Instead of letting an agent learn by trial and error in the real world — expensive and occasionally dangerous — a world model offers a sandbox where mistakes are free."
+      },
+      {
+        "kind": "h3",
+        "text": "The Bigger Claim Behind the Technology"
+      },
+      {
+        "kind": "p",
+        "text": "Researchers pushing world models forward tend to make a claim that goes beyond any single application: that this is a meaningful step toward more general intelligence, not just a new content-generation tool. Genie 3’s own research lead has described it as the first real-time interactive general-purpose world model — explicitly framed as going beyond narrow, task-specific systems."
+      },
+      {
+        "kind": "p",
+        "text": "The reasoning behind that claim is straightforward, even if the engineering isn’t: an AI system that has to predict how a physical scene will unfold has to implicitly learn something about how the physical world actually works — gravity, momentum, cause and effect — in a way that a system trained purely on text never has to. Whether that implicit physical understanding generalizes into something closer to genuine reasoning is one of the most actively contested questions in AI research right now."
+      },
+      {
+        "kind": "h3",
+        "text": "What’s Still Unresolved"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*nRELcOxJvX0sENj3-O0Heg.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "For all the momentum, world models remain early technology, with real open questions attached:"
+      },
+      {
+        "kind": "p",
+        "text": "Consistency over time. Even the best systems today hold a coherent, physically plausible world for a few minutes, not indefinitely — long-horizon stability is an active area of research, not a solved problem."
+      },
+      {
+        "kind": "p",
+        "text": "Compute cost. Generating real-time video frame by frame is far more expensive than generating text, which limits how widely this can scale until costs come down."
+      },
+      {
+        "kind": "p",
+        "text": "Where synthetic and real blur together. As these systems get better at recreating real places — as the Street View integration shows — questions about consent, misuse, and how to label AI-generated environments are going to need real answers, not just good intentions."
+      },
+      {
+        "kind": "p",
+        "text": "None of that is a reason to dismiss the technology — it’s simply where the frontier currently sits. Two years ago, an AI generating a few blurry seconds of a video game screen was a research milestone. Today, that same lineage of research produces places you can walk through in real time. If that trajectory holds, the next few years of generative AI may be defined less by better conversations and more by better worlds."
+      },
+      {
+        "kind": "p",
+        "text": "………………………………………………………………………………………………"
+      },
+      {
+        "kind": "p",
+        "text": "Sources: Google DeepMind, “Genie 3: A new frontier for world models,” 2025; Google DeepMind Blog via PYMNTS.com, January 2026; Wikipedia, “Genie (world model)” and “Project Genie (website)”; Introl Blog, “World Models Race 2026,” January 2026. This article reflects publicly available information as of September 2026."
+      },
+      {
+        "kind": "p",
+        "text": "World Models: The Quiet Race to Build AI That Understands Reality, Not Just Language was originally published in Towards Deep Learning on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  },
+  {
+    "id": "0d095ca062a2",
+    "title": "BRICS: Why India’s bet on practical ties matters",
+    "url": "https://medium.com/@soumiganguly2021/brics-why-indias-bet-on-practical-ties-matters-0d095ca062a2?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "h3",
+        "text": "The significance of the recent 18th BRICS Summit under India’s presidency lies not only in how it sought to strengthen the grouping’s voice in global affairs, but in where it chose to build cooperation."
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/400/0*NP8q-gkZSLi5Uu4D.jpg",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "Prime Minister Narendra Modi addresses the open session of the BRICS Summit 2026, in New Delhi, (PMO)"
+      },
+      {
+        "kind": "p",
+        "text": "As BRICS has expanded from its original composition to 11 members, bringing together countries with increasingly diverse political, economic and strategic interests — one enduring question has always come to the fore: how can the grouping remain effective as it becomes larger, more diverse and politically more complex? Its ambition to give the Global South a stronger voice in international affairs remains important, but how can it translate that ambition into meaningful common positions when its members often have divergent interests?"
+      },
+      {
+        "kind": "p",
+        "text": "India’s presidency appears to have sought to address this challenge by placing greater emphasis on areas where cooperation is more immediately achievable. Rather than focusing primarily on broad, top-down geopolitical positioning, it shifted attention towards more practical and sector-specific engagement in MSMEs, startups, agriculture and food security, logistics, energy, digital technology and innovation — potentially with direct developmental relevance."
+      },
+      {
+        "kind": "p",
+        "text": "Traditionally, BRICS has sought to advance a stronger voice for developing countries, press for reform of global institutions and challenge imbalances in international economic and political governance."
+      },
+      {
+        "kind": "p",
+        "text": "But an expanded BRICS cannot easily translate that broad political ambition into a common position on every international crisis. Russia’s strategic interests are not India’s; India’s are not China’s; and the priorities of Iran, the UAE, Saudi Arabia and other members can differ substantially. The challenge, therefore, is not simply to expand the areas on which BRICS speaks collectively, but to create enough practical convergence to keep cooperation moving despite political divergence."
+      },
+      {
+        "kind": "p",
+        "text": "This is where India’s sector-specific strategy becomes important. This practical orientation was reflected in the scale and breadth of India’s BRICS engagement. More than 350 meetings and high-level engagements across over 30 cities brought governments, businesses, researchers and institutions into the process. The focus moved beyond broad political declarations towards more practical cooperation, with greater attention to strengthening business linkages, supply chains, knowledge-sharing and institutional engagement."
+      },
+      {
+        "kind": "p",
+        "text": "The distinction matters. Political convergence is often difficult to manufacture; practical cooperation can be built incrementally. Moreover, India has cautioned against a one-size-fits-all development model, arguing instead for the sharing of technology and know-how while allowing individual countries to adapt them to their own requirements."
+      },
+      {
+        "kind": "p",
+        "text": "Consider MSMEs. India pushed the internationalisation of smaller businesses through greater connectivity among BRICS economies. The Jaipur Consensus and related measures focused on issues such as credit assessment and invoice discounting for export-oriented MSMEs. The objective is concrete: Reduce financing and market-access barriers and enable smaller firms to participate in cross-border trade and value chains. The BRICS trade ministers noted that the global trade-finance gap in the MSME sector is about $2.5 trillion, highlighting why such seemingly technical measures have wider significance."
+      },
+      {
+        "kind": "p",
+        "text": "Agriculture illustrates the same approach. Cooperation in digital agriculture, agro-ecology, agricultural information and technology addresses problems shared across developing economies without requiring them to adopt an identical agricultural model. The New Delhi Declaration also backed the establishment of BRICS AGRIN, a network focused on agro-inputs, genetic resources and agricultural information."
+      },
+      {
+        "kind": "p",
+        "text": "Food security takes this logic a step further. BRICS members account for a substantial share of global food production, while many are simultaneously major consumers. The proposed BRICS Grain Exchange seeks to improve agricultural trade and food-supply resilience, although its operating modalities still require further discussion."
+      },
+      {
+        "kind": "p",
+        "text": "The same principle extends to startups, digital services, logistics, energy and innovation. Rather than attempting to create a single BRICS model, the emphasis is increasingly on connecting markets, institutions, technologies and knowledge systems. The economic agenda adopted during India’s chairship, for instance, included a Global Value Chains Action Plan for 2026–30 and measures to facilitate digitally delivered services."
+      },
+      {
+        "kind": "p",
+        "text": "This represents an important evolution in India’s own BRICS approach. While India has continued to press for reforms in international governance and the global financial architecture, with the New Delhi Declaration further reaffirming these objectives, its 2026 presidency added another layer: rather than only seeking greater representation, it also sought to demonstrate what developing countries could contribute through their own institutional and technological solutions. In this sense, the emphasis on practical cooperation reflects a degree of institutional maturity, linking the broader political objectives of the Global South with concrete areas of economic and developmental cooperation."
+      },
+      {
+        "kind": "p",
+        "text": "For India, this shift in approach is also particularly relevant to its foreign-policy interests. New Delhi has consistently sought strategic autonomy rather than alignment with a rigid geopolitical bloc. A BRICS defined primarily by confrontation with the West, particularly the United States, could narrow India’s diplomatic manoeuvrability. By contrast, a BRICS that combines efforts to reform global institutions with practical cooperation among diverse developing economies gives India greater room to engage different partners on different issues. It also allows India and other major developing economies to build greater collective leverage within a more plural international system, without requiring them to align on every strategic question. In that sense, sectoral cooperation can provide the connective tissue for a geopolitically diverse grouping."
+      },
+      {
+        "kind": "p",
+        "text": "There are, however, clear limits. Announcements do not automatically translate into functioning institutions, and multiple initiatives can create duplication, weak implementation and bureaucratic complexity. Differences in regulatory systems, economic structures, technological capabilities and political priorities can constrain delivery. The test of India’s approach will, therefore, not be the number of initiatives announced, but whether some of them generate sustained cross-border participation and measurable outcomes."
+      },
+      {
+        "kind": "p",
+        "text": "That is where the next phase of BRICS becomes important. The grouping needs to move from launching platforms to making them usable: the real measure of this approach, however, will be whether these initiatives develop into functioning institutions, sustained economic linkages and measurable outcomes. If they do, it could help build common ground without requiring common positions on every issue."
+      },
+      {
+        "kind": "p",
+        "text": "For an increasingly diverse BRICS, this may be the more sustainable model of institution-building. India’s BRICS strategy, therefore, can be understood as a shift from seeking common positions on every issue to building common ground where cooperation is possible; from broad declarations to sector-specific solutions; and from representing the Global South to creating platforms through which its members can share, adapt and scale their own capabilities."
+      },
+      {
+        "kind": "p",
+        "text": "For a grouping as diverse as BRICS, that may ultimately be what makes cooperation more durable and allows its broader ambitions to translate into practical outcomes. India’s BRICS engagement was exactly about making that transition — from broad ambitions to practical, sustained cooperation."
+      },
+      {
+        "kind": "p",
+        "text": "(The views expressed are personal)"
+      },
+      {
+        "kind": "p",
+        "text": "This article is authored by Mahesh Ganguly, teaching assistant and research fellow, IIT Bombay, and Soumi Ganguly, research assistant, IDS, Kolkata."
+      },
+      {
+        "kind": "p",
+        "text": "Originally published at https://www.hindustantimes.com on September 23, 2026."
+      }
+    ]
+  },
+  {
+    "id": "571e51974b2c",
+    "title": "Context Engineering: The Skill That Quietly Replaced Prompt Engineering",
+    "url": "https://medium.com/towards-data-engineering/context-engineering-the-skill-that-quietly-replaced-prompt-engineering-571e51974b2c?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*FKCEDcQc2hhgfA9PRihjYQ.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "In 2023, “prompt engineer” was being called one of the hottest new job titles of the decade. By mid-2025, the term was already starting to feel dated — not because prompting stopped mattering, but because the industry realized it had been naming the wrong skill all along."
+      },
+      {
+        "kind": "p",
+        "text": "The shift has a clear origin point. In June 2025, Shopify CEO Tobi Lütke posted that he preferred a different term entirely: context engineering, which he described as the art of providing all the context needed for a task to be solvable by an LLM. Days later, Andrej Karpathy — a founding member of OpenAI and former head of AI at Tesla — publicly agreed, and offered a sharper definition of his own: the delicate art and science of filling the context window with exactly the right information for each step."
+      },
+      {
+        "kind": "p",
+        "text": "Within months, the phrase had spread through the entire AI industry — from LangChain’s engineering blogs to Anthropic’s internal frameworks to Gartner’s analyst briefings, which by late 2025 were telling clients plainly that context engineering was in and prompt engineering was out."
+      },
+      {
+        "kind": "h3",
+        "text": "Why the Old Term Stopped Fitting"
+      },
+      {
+        "kind": "p",
+        "text": "“Prompt engineering” always implied something small: find the magic sentence, phrase the instruction cleverly, and the model does the rest. That framing made sense when people were mostly typing one-off questions into a chat window."
+      },
+      {
+        "kind": "p",
+        "text": "It stopped making sense once serious applications entered the picture — AI agents that plan multi-step tasks, coding assistants that work across an entire codebase, customer support systems that need a customer’s order history, account details, and company policy all loaded in at once. None of that gets solved by a clever sentence. It gets solved by carefully deciding, at every single step, exactly what the model needs to see — and just as importantly, what it shouldn’t."
+      },
+      {
+        "kind": "p",
+        "text": "Karpathy’s own mental model makes the shift concrete: think of the LLM as a CPU, and its context window as RAM. Prompting was about writing a good instruction. Context engineering is closer to operating-system work — deciding what gets loaded into working memory, in what order, and when it needs to be cleared out to make room for what matters next."
+      },
+      {
+        "kind": "h3",
+        "text": "What Actually Goes Wrong Without It"
+      },
+      {
+        "kind": "p",
+        "text": "Researchers studying agent failures have identified a recurring set of problems that all trace back to badly managed context, rather than a weak model:"
+      },
+      {
+        "kind": "p",
+        "text": "Context poisoning — an early mistake or hallucination in the conversation gets treated as fact and compounds through every later step."
+      },
+      {
+        "kind": "p",
+        "text": "Context distraction — too much accumulated history buries the information that actually matters right now."
+      },
+      {
+        "kind": "p",
+        "text": "Context confusion — irrelevant details crowd the window and degrade the model’s ability to pick the right tool or answer."
+      },
+      {
+        "kind": "p",
+        "text": "Context clash — contradictory information from different points in a task confuses the model about which version is current."
+      },
+      {
+        "kind": "p",
+        "text": "These aren’t rare edge cases. Reported failure rates for multi-agent systems built without deliberate context management have ranged from roughly 41% to 87% across major frameworks — a strong signal that the constraint most teams are hitting isn’t model intelligence, it’s what the model is being shown."
+      },
+      {
+        "kind": "h3",
+        "text": "The Four Moves Behind Good Context Engineering"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*8vuMmnm1DEMmNPDN4_iDgA.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "A framework popularized by LangChain in 2025 breaks the discipline down into four core operations, and most production agent systems today are built around some version of this cycle:"
+      },
+      {
+        "kind": "p",
+        "text": "Write — externalize information instead of hoping the model remembers it. Scratchpads, memory files, and structured notes let an agent record what it’s learned so it doesn’t have to re-derive it later."
+      },
+      {
+        "kind": "p",
+        "text": "Select — retrieve only what’s relevant to the current step. This is where naive RAG setups tend to fail: dumping every semi-related document into the prompt is not the same as choosing the right ones."
+      },
+      {
+        "kind": "p",
+        "text": "Compress — condense accumulated history as a task runs long, preserving meaning while shedding detail that’s no longer load-bearing. Without this, long-running agents slowly drown in their own transcripts."
+      },
+      {
+        "kind": "p",
+        "text": "Isolate — restrict what different sub-agents can see from each other, so one task’s context doesn’t leak into and confuse a separate one."
+      },
+      {
+        "kind": "p",
+        "text": "None of these are exotic ideas on their own. What’s new is treating them as an actual engineering discipline — something designed, tested, and iterated on — rather than an afterthought bolted onto a prompt."
+      },
+      {
+        "kind": "h3",
+        "text": "This Is Bigger Than Chatbots"
+      },
+      {
+        "kind": "p",
+        "text": "It’s tempting to file this under “prompt tips,” but the people driving this conversation are framing it as something closer to a new layer of software infrastructure. Karpathy has described three eras of programming: telling a computer exactly how to do something (traditional code), showing it what to do through examples (machine learning), and telling it what you want in plain language (the LLM era). Context engineering, in his view, sits at the center of that third era — the actual mechanics of making “just tell it what you want” work reliably at scale."
+      },
+      {
+        "kind": "p",
+        "text": "Anthropic has made a similar case internally, describing context engineering as the natural evolution of prompting: a finite, valuable resource that has to be managed with real engineering discipline rather than intuition. And the stakes attached to getting it right are no longer small. Analysts have pointed to hundreds of billions of dollars in AI investment converting into only a fraction of its intended business value — with poor context management, not model quality, cited as a central reason why."
+      },
+      {
+        "kind": "h3",
+        "text": "Where to Actually Start"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*wbE8aUX0gofVqbFud10t_w.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "If you’re building anything beyond a single-turn chatbot, a practical path looks roughly like this:"
+      },
+      {
+        "kind": "p",
+        "text": "Tier 1: Basic retrieval plus a scratchpad — give the model relevant documents and a place to jot down intermediate reasoning."
+      },
+      {
+        "kind": "p",
+        "text": "Tier 2: Add summarization and compression — actively manage the window instead of letting it fill up passively."
+      },
+      {
+        "kind": "p",
+        "text": "Tier 3: Move to multi-agent isolation only once you actually need it — splitting context between specialized sub-agents so their tasks don’t bleed into each other."
+      },
+      {
+        "kind": "p",
+        "text": "The uncomfortable truth for a lot of teams is that upgrading to a better model often isn’t the fix they need. The frontier models available right now are already capable enough for most tasks people are struggling with. What’s usually missing isn’t intelligence — it’s discipline about what that intelligence is allowed to see, and when."
+      },
+      {
+        "kind": "p",
+        "text": "Prompt engineering asks: what’s the right thing to say? Context engineering asks a harder, more useful question: what does the model actually need to know right now — and what should it not have to wade through to find it?"
+      },
+      {
+        "kind": "p",
+        "text": "Sources: Tobi Lütke and Andrej Karpathy, public statements, June 2025; LangChain engineering blog, 2025; Anthropic, context engineering framework, 2025; Gartner analyst briefings, 2025. This article reflects publicly available information as of September 2026."
+      },
+      {
+        "kind": "p",
+        "text": "Context Engineering: The Skill That Quietly Replaced Prompt Engineering was originally published in Towards Data Engineering on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  },
+  {
+    "id": "3f0aa780f934",
+    "title": "Vibe Coding’s Shaky Foundations: What Cursor’s CEO Just Warned Every Developer About",
+    "url": "https://medium.com/towards-data-engineering/vibe-codings-shaky-foundations-what-cursor-s-ceo-just-warned-every-developer-about-3f0aa780f934?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*r7DQB5Mn9fcZGFBeNjVu6Q.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "The CEO of one of the fastest-growing AI coding startups on the planet just told a room full of developers: be careful with the thing that made you successful."
+      },
+      {
+        "kind": "p",
+        "text": "That’s the strange position Michael Truell, the 25-year-old cofounder and CEO of Cursor, found himself in at the Fortune Brainstorm AI conference late last year. Cursor is an AI-powered coding tool used by huge numbers of developers, and Truell’s job is to convince people that letting AI write more of their code is a good idea. Instead, he stood up and drew a sharp line between AI-assisted coding done well and the increasingly popular practice known as “vibe coding” — and warned that the second one is quietly setting projects up to fail."
+      },
+      {
+        "kind": "h3",
+        "text": "What “Vibe Coding” Actually Means"
+      },
+      {
+        "kind": "p",
+        "text": "The term itself is barely two years old, but it’s already become the shorthand for a specific way of working with AI: you describe what you want in plain English, the AI generates the code, and you never really look at what it produced. No reading the files. No understanding the architecture. Just describing outcomes and accepting whatever comes back."
+      },
+      {
+        "kind": "p",
+        "text": "Truell described it plainly: it’s closing your eyes and asking the AI to build the whole thing for you. He compared it to commissioning a house without ever checking the foundation, the wiring, or what’s underneath the floorboards. You just want walls and a roof, fast."
+      },
+      {
+        "kind": "p",
+        "text": "For small, disposable projects, he pointed out, that’s genuinely fine. Mocking up a weekend game or a quick prototype doesn’t require anyone to understand the plumbing. The problems start when people try to scale that same close-your-eyes approach into something meant to last."
+      },
+      {
+        "kind": "h3",
+        "text": "The Line That Went Viral"
+      },
+      {
+        "kind": "p",
+        "text": "Here’s the part of his talk that got quoted everywhere: when you stack AI-generated changes on top of each other, floor after floor, without ever inspecting what’s holding it up, “things start to kind of crumble.”"
+      },
+      {
+        "kind": "p",
+        "text": "It’s a simple image, but it landed because most developers who’ve tried AI coding tools have felt some version of it already — the moment a fast, magical first draft turns into a codebase nobody, human or AI, can fully explain anymore."
+      },
+      {
+        "kind": "h3",
+        "text": "Why This Warning Carries Weight"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*vB9kiD4FwBLPg1Z-UHCczQ.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "What makes this notable isn’t just what was said — it’s who said it. Cursor’s entire business is built on developers trusting AI to write more of their code. Truell wasn’t arguing against AI-assisted coding. He was drawing a distinction between two very different things that both get called “AI coding” right now."
+      },
+      {
+        "kind": "p",
+        "text": "In his framing, Cursor is built for the disciplined version: AI embedded directly in the editor, drafting code the developer still reads, still understands, and can still debug — full function generation and autocomplete available, but always with a human able to step back in and look under the hood. The tool can do end-to-end tasks when you want it to, he said, but the option to inspect everything never goes away."
+      },
+      {
+        "kind": "p",
+        "text": "That distinction matters because of how fast the underlying claims about AI coding have been escalating. Microsoft and Google have both said that roughly a quarter of their companies’ code is now AI-generated. Anthropic’s CEO predicted that within months, the vast majority of all code could be AI-written. When percentages like that get thrown around, the natural question is: written how? Reviewed by whom? Understood by whom, if anything breaks?"
+      },
+      {
+        "kind": "h3",
+        "text": "The Debt Comes Due Later"
+      },
+      {
+        "kind": "p",
+        "text": "This is really the same warning that shows up whenever a shortcut removes friction from something that used to require understanding. The cost doesn’t disappear — it just moves downstream, to the moment something breaks and someone has to figure out why."
+      },
+      {
+        "kind": "p",
+        "text": "With vibe-coded software, that moment tends to be worse than usual. A bug in code you wrote yourself is annoying. A bug in a system nobody on the team ever actually understood — because no one had to, until now — can mean starting the investigation from zero. Truell’s “crumble” isn’t a single dramatic collapse; it’s the slow accumulation of a codebase nobody can safely extend anymore."
+      },
+      {
+        "kind": "h3",
+        "text": "What This Actually Means for How You Work"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*hYPEe2j91ivaolQ3yR7HpQ.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "None of this is an argument for avoiding AI coding tools — Truell’s own company would fold if that were the takeaway. It’s an argument for a specific habit: stay able to explain what your code does, even when AI wrote most of it."
+      },
+      {
+        "kind": "p",
+        "text": "A few practices seem to separate developers getting real leverage from AI from developers quietly accumulating risk:"
+      },
+      {
+        "kind": "p",
+        "text": "Read what gets generated, even when it’s tempting not to — especially for anything touching data, authentication, or money."
+      },
+      {
+        "kind": "p",
+        "text": "Reserve “eyes closed” mode for genuinely disposable work — prototypes, demos, throwaway scripts — and switch it off for anything meant to last."
+      },
+      {
+        "kind": "p",
+        "text": "Ask the AI to explain its own output, not just produce it. If you can’t restate why the code works, you don’t yet own it."
+      },
+      {
+        "kind": "p",
+        "text": "Review architecture, not just diffs. A change can look fine line-by-line and still be quietly building on a shaky floor below it."
+      },
+      {
+        "kind": "p",
+        "text": "Speed was always the pitch for AI coding tools, and for a huge range of tasks, that pitch is real. But speed only compounds well when it’s built on something solid. The floors go up faster than ever now — the only question Truell’s warning leaves every developer with is whether anyone checked what’s holding them up."
+      },
+      {
+        "kind": "p",
+        "text": "………………………………………………………………………………………………."
+      },
+      {
+        "kind": "p",
+        "text": "Sources: Fortune/Marco Quiroz-Gutierrez, “Cursor CEO warns vibe coding builds ‘shaky foundations’ and eventually ‘things start to crumble,’” Dec. 2025; MIT Technology Review, “AI coding is now everywhere. But not everyone is convinced,” Dec. 2025. This article reflects publicly reported statements and is current as of September 2026."
+      },
+      {
+        "kind": "p",
+        "text": "Vibe Coding’s Shaky Foundations: What Cursor’s CEO Just Warned Every Developer About was originally published in Towards Data Engineering on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  },
+  {
+    "id": "a6679d424619",
+    "title": "Cognitive Debt: The Real Price You Pay Every Time You Let AI Think For You",
+    "url": "https://medium.com/codetodeploy/cognitive-debt-the-real-price-you-pay-every-time-you-let-ai-think-for-you-a6679d424619?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*dcvW3vWqbfDfAVYXsWsVBA.png",
+        "alt": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Cognitive Debt: The Real Price You Pay Every Time You Let AI Think For You"
+      },
+      {
+        "kind": "p",
+        "text": "There’s a number that should worry you more than any AI benchmark: zero. That’s roughly how much mental effort it takes to get a decent-looking essay, summary, or answer out of a chatbot today. No struggling with a blank page. No wrong turns. No friction at all."
+      },
+      {
+        "kind": "p",
+        "text": "💥 Master AI & Tech Skills\n 🎓 Get Up to 50% OFF Premium Courses\n ⏰ Limited-Time Offer\n👉 Enroll Now & Start Learning"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*ITogvtC6mF2BUF35Qsd9pg.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "For years, “less friction” was the whole promise of technology. But a growing body of research suggests that when it comes to thinking, the friction was never the problem. It was the point."
+      },
+      {
+        "kind": "h3",
+        "text": "The Study That Coined a New Term"
+      },
+      {
+        "kind": "p",
+        "text": "In the summer of 2025, a team at MIT’s Media Lab, led by researcher Nataliya Kosmyna, ran an experiment that would go on to reshape how people talk about AI and the mind. Over four months, 54 participants were split into three groups and asked to write a series of SAT-style essays: one group could only use their own brain, one could use a search engine, and one could use ChatGPT."
+      },
+      {
+        "kind": "p",
+        "text": "Each participant wore an EEG headset while writing, so researchers could track brain activity across 32 regions in real time. The essays were then scored blind by both human teachers and an AI grader."
+      },
+      {
+        "kind": "p",
+        "text": "The results lined up almost too neatly. The brain-only group showed the strongest, most widely distributed neural connectivity. The search-engine group came in the middle. The ChatGPT group showed the weakest connectivity of the three — consistently, across every session."
+      },
+      {
+        "kind": "p",
+        "text": "The researchers gave this pattern a name: cognitive debt. The idea is simple and a little unsettling. Every time you offload a mental task to an AI tool, you save effort right now — but you defer the cost. And like any debt, it accumulates interest."
+      },
+      {
+        "kind": "h3",
+        "text": "What “Debt” Actually Buys You — and Costs You"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*ZQWu21zTjgVkUd6qaYYaxA.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "The MIT team didn’t stop at brain scans. They also looked at what happened when the setup was flipped in a fourth session — participants who had relied on the AI were asked to write unaided, and vice versa."
+      },
+      {
+        "kind": "p",
+        "text": "The AI-to-brain group struggled. Having leaned on ChatGPT in earlier sessions, they showed weaker recall and had a harder time engaging critically with their own essay topics — even ones they’d already written about. The brain-to-AI group, on the other hand, adapted well: having built up their own reasoning first, they were able to use the AI as a genuine supplement rather than a substitute."
+      },
+      {
+        "kind": "p",
+        "text": "Human graders, working blind, independently noticed something too: essays written with heavy AI assistance tended to read as generic — technically correct, but short on a distinct point of view. Ask ten people to lean fully on the same tool for the same prompt, and you tend to get ten versions of the same essay."
+      },
+      {
+        "kind": "p",
+        "text": "This tracks with a broader pattern researchers have been documenting. A 2025 survey of knowledge workers, published at the CHI conference, found that people who trusted AI outputs more reported putting in less critical thinking effort — while people who felt more confident in their own expertise engaged more critically, AI or not. The tool itself isn’t the variable. Your relationship to it is."
+      },
+      {
+        "kind": "h3",
+        "text": "Why This Isn’t Really About Essays"
+      },
+      {
+        "kind": "p",
+        "text": "It’s tempting to file this under “students using ChatGPT to cheat,” but the MIT researchers were careful to frame cognitive debt as a broader phenomenon, not an academic integrity problem. The same mechanism shows up anywhere effortful thinking has an AI-shaped shortcut available:"
+      },
+      {
+        "kind": "p",
+        "text": "In writing — outsourcing the first draft means outsourcing the thinking-through-writing process, not just the typing."
+      },
+      {
+        "kind": "p",
+        "text": "In coding — accepting a suggested fix without tracing why the bug happened trades a fixed symptom for an unlearned lesson."
+      },
+      {
+        "kind": "p",
+        "text": "In decision-making — asking AI to weigh your options can quietly replace the harder, slower work of clarifying what you actually value."
+      },
+      {
+        "kind": "p",
+        "text": "In learning anything new — if the effortful retrieval step disappears, so does most of the memory formation that step was creating."
+      },
+      {
+        "kind": "p",
+        "text": "None of this means the tool is bad. It means the tool is strong — strong enough that how you use it matters more than whether you use it."
+      },
+      {
+        "kind": "h3",
+        "text": "Paying It Down: What Calibrated Use Looks Like"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*biEXS_t7BHG5iVfoS9asOg.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "The MIT researchers weren’t arguing for avoiding AI tools altogether — their own paper notes that the search-engine group, which also relied on an external tool, showed no measurable impairment. The difference wasn’t “tool use”; it was how much of the actual thinking got handed over."
+      },
+      {
+        "kind": "p",
+        "text": "A few habits seem to separate healthy reliance from accumulating debt:"
+      },
+      {
+        "kind": "p",
+        "text": "Do the first pass yourself. Even a rough, five-minute attempt at a problem before consulting AI preserves the retrieval-and-struggle process that builds memory and understanding."
+      },
+      {
+        "kind": "p",
+        "text": "Ask “why,” not just “what.” Requesting an explanation alongside an answer keeps you in the loop as a reasoner instead of a copier."
+      },
+      {
+        "kind": "p",
+        "text": "Rotate who’s driving. Use AI to check your work sometimes, and use your own judgment to check the AI’s work other times."
+      },
+      {
+        "kind": "p",
+        "text": "Notice when you stop noticing. If you’ve caught yourself pasting an answer without reading it, that’s the moment cognitive debt is compounding."
+      },
+      {
+        "kind": "h3",
+        "text": "The Bigger Picture"
+      },
+      {
+        "kind": "p",
+        "text": "Every previous tool that reduced mental effort — calculators, GPS, spell-check — sparked some version of this same debate, and humanity adapted by deciding which skills were safe to offload and which weren’t worth losing. AI is forcing that same negotiation, just faster and across far more of daily thinking than any tool before it."
+      },
+      {
+        "kind": "p",
+        "text": "The MIT study is preliminary — a modest sample, a narrow task, and a result that other researchers have already started to scrutinize and debate. But the core question it raises isn’t preliminary at all: when convenience is unlimited, what do you actually want to stay good at?"
+      },
+      {
+        "kind": "p",
+        "text": "That’s not a question AI can answer for you. Answering it yourself might be exactly the kind of thinking worth not outsourcing."
+      },
+      {
+        "kind": "p",
+        "text": "Sources: Kosmyna et al., “Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task,” MIT Media Lab / arXiv, 2025; Lee et al., “The Impact of Generative AI on Critical Thinking,” CHI 2025 Proceedings. This article reflects publicly available research as of September 2026."
+      },
+      {
+        "kind": "h3",
+        "text": "Thank you for being a part of the community"
+      },
+      {
+        "kind": "p",
+        "text": "Before you go:"
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*d9QTaaaxboQP_gKSLedW_w.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "👉 Be sure to clap and follow the writer ️👏️️"
+      },
+      {
+        "kind": "p",
+        "text": "👉 Follow us: Medium"
+      },
+      {
+        "kind": "p",
+        "text": "👉 CodeToDeploy Tech Community is live on Discord — Join now!"
+      },
+      {
+        "kind": "p",
+        "text": "Disclosure: This post includes affiliate and partnership links."
+      },
+      {
+        "kind": "p",
+        "text": "Cognitive Debt: The Real Price You Pay Every Time You Let AI Think For You was originally published in CodeToDeploy on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  },
+  {
+    "id": "5447ed68efca",
+    "title": "Why Data Scientists Are Quietly Switching to Synthetic Data in 2026",
+    "url": "https://ai.plainenglish.io/why-data-scientists-are-quietly-switching-to-synthetic-data-in-2026-5447ed68efca?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "p",
+        "text": "For most of the last decade, data scientists lived by one rule: real data beats fake data, always. In 2026, that rule is breaking down. Across fraud detection, healthcare, and customer analytics, teams are training models on data that was never generated by a real customer, patient, or transaction. It is synthetic, and it is becoming the default, not the workaround."
+      },
+      {
+        "kind": "p",
+        "text": "This is not a niche experiment. Gartner estimates that synthetic data will account for up to 20% of all data used in customer-facing AI models by the end of 2026. To understand why, it helps to look at the problem synthetic data actually solves."
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*OKG1wyoU2Fuc4lxPNgXS9A.png",
+        "alt": ""
+      },
+      {
+        "kind": "h3",
+        "text": "The Real Data Problem"
+      },
+      {
+        "kind": "p",
+        "text": "Real-world data has three chronic problems that no amount of cleaning fixes:"
+      },
+      {
+        "kind": "p",
+        "text": "• It’s scarce where it matters most. Rare fraud patterns, uncommon medical conditions, and edge-case failures are exactly the events models need to learn, and exactly the events that barely show up in historical records."
+      },
+      {
+        "kind": "p",
+        "text": "• It’s expensive and slow to collect. Labelling medical scans or annotating financial transactions at scale requires expert time that most teams don’t have enough of."
+      },
+      {
+        "kind": "p",
+        "text": "• It’s a privacy liability. Using real patient or customer records for model training means carrying the risk of exposure, regulatory penalties, and breach of trust."
+      },
+      {
+        "kind": "p",
+        "text": "Synthetic data sidesteps all three. A generative model trained on the statistical patterns of real records can produce millions of artificial but realistic examples, including rare edge cases, without exposing a single real person’s information."
+      },
+      {
+        "kind": "h3",
+        "text": "Where It’s Already Working"
+      },
+      {
+        "kind": "p",
+        "text": "• Fraud detection: Since genuine fraud cases are rare relative to legitimate transactions, teams generate synthetic fraud patterns to train models that would otherwise never see enough real examples to learn from."
+      },
+      {
+        "kind": "p",
+        "text": "• Healthcare research: A 2025 review found that among synthetic biomedical datasets generated by language models, unstructured clinical text made up 78% of use cases, followed by tabular patient data at 13.6%, letting researchers study rare conditions without touching real patient files."
+      },
+      {
+        "kind": "p",
+        "text": "• Small language models: Rather than training a massive general-purpose model, companies now generate targeted synthetic datasets to train smaller, cheaper models that run locally and handle a narrow task, like classifying support tickets, just as well."
+      },
+      {
+        "kind": "h3",
+        "text": "The Catch Nobody Advertises"
+      },
+      {
+        "kind": "p",
+        "text": "Synthetic data is not a free upgrade. Researchers have documented a failure mode called model collapse: when models are repeatedly trained on data generated by earlier models, which were themselves trained on synthetic data, quality degrades with each generation. The outputs get narrower and drift further from real-world patterns, sometimes without any obvious warning sign in accuracy metrics."
+      },
+      {
+        "kind": "p",
+        "text": "There is also a harder, more basic question underneath the hype: synthetic data is generated by models trained on real data in the first place. If the seed data carries a bias, that bias does not disappear when it’s synthesized. It gets reproduced, and sometimes amplified, at scale."
+      },
+      {
+        "kind": "h3",
+        "text": "Why This Matters for the Field"
+      },
+      {
+        "kind": "p",
+        "text": "The bigger context here is a genuine resource constraint. Researchers project that frontier language models will exhaust the available supply of public, human-generated text by 2028. That deadline is pushing synthetic data from a convenient shortcut to a structural necessity for the entire field, not just a handful of specialized use cases."
+      },
+      {
+        "kind": "p",
+        "text": "For working data scientists, this changes what “knowing your data” means. It’s no longer enough to understand where your real data came from. Increasingly, you also need to understand the model that generated your synthetic data, what it was trained on, and what patterns it might be quietly distorting or leaving out."
+      },
+      {
+        "kind": "h3",
+        "text": "A Practical Starting Point"
+      },
+      {
+        "kind": "p",
+        "text": "• Use synthetic data to fill gaps, not to replace your entire dataset. It works best supplementing rare cases, not substituting the whole training set."
+      },
+      {
+        "kind": "p",
+        "text": "• Always validate against a real holdout set. A model that performs well only on synthetic test data is not a validated model."
+      },
+      {
+        "kind": "p",
+        "text": "• Track data lineage. Know which model generated your synthetic data and what it was trained on, so you can trace problems back to their source."
+      },
+      {
+        "kind": "p",
+        "text": "• Watch for collapse across generations. If you’re generating synthetic data from synthetic data, check quality at each generation, not just at the end."
+      },
+      {
+        "kind": "p",
+        "text": "Synthetic data is not replacing real data because it’s better. It’s gaining ground because real data is scarce, expensive, and legally risky in exactly the places models need it most. That trade-off is now central enough to data science that treating synthetic data as a side skill, rather than a core competency, is quickly becoming a real gap in a data scientist’s toolkit."
+      },
+      {
+        "kind": "p",
+        "text": "Soumi Ganguly, Marketing Director @Dhiyantra | Technical content writer & data analyst (4+ yrs) | Bylines: Hindustan Times, The Telegraph | AI, data & geopolitics."
+      },
+      {
+        "kind": "h3",
+        "text": "Before you go"
+      },
+      {
+        "kind": "p",
+        "text": "Please take a moment to like the post and follow the writer!"
+      },
+      {
+        "kind": "p",
+        "text": "Did you know that over 400,000 developers share what they’re building, learning, and discovering across our platforms every month? Learn how you can contribute here."
+      },
+      {
+        "kind": "p",
+        "text": "Why Data Scientists Are Quietly Switching to Synthetic Data in 2026 was originally published in Artificial Intelligence in Plain English on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  },
+  {
+    "id": "6c55b144732d",
+    "title": "AI Agents: The Shift From Chatbots to Autonomous Digital Workers",
+    "url": "https://ai.plainenglish.io/ai-agents-the-shift-from-chatbots-to-autonomous-digital-workers-6c55b144732d?source=rss-35f33f9c8052------2",
+    "blocks": [
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*QjmtMpwQYglJ90PkTm_CIQ.png",
+        "alt": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Introduction"
+      },
+      {
+        "kind": "p",
+        "text": "Over the past couple of years, the word attached most often to “AI” has been “agent.” In 2023–24, most of us were simply asking chatbots questions and getting answers back. By 2026, those same underlying models are doing real work — reading emails and replying to them, writing and testing code, gathering research from multiple sources into a report, and even opening a browser to fill out forms."
+      },
+      {
+        "kind": "p",
+        "text": "This shift didn’t happen overnight. It’s the result of a steady progression: from large language models, to models that can use tools, to today’s agents that can carry out multi-step tasks on their own. In this article, we’ll look in detail at what an AI agent actually is, how it works, where it’s being used in the real world, and the risks that come with it."
+      },
+      {
+        "kind": "h3",
+        "text": "Chatbot vs. Agent: What’s the Difference"
+      },
+      {
+        "kind": "p",
+        "text": "A regular chatbot is essentially a question-and-answer machine. You ask something, it answers, and the exchange ends there. It doesn’t make decisions on its own, open files, or run tools."
+      },
+      {
+        "kind": "p",
+        "text": "An AI agent differs in three key ways:"
+      },
+      {
+        "kind": "p",
+        "text": "Goal-driven work: You give it a goal (“clean up this spreadsheet and build a chart from it”), and the agent figures out the steps needed to get there."
+      },
+      {
+        "kind": "p",
+        "text": "Tool use: An agent can run code, search the web, read and write files, and even talk to other software."
+      },
+      {
+        "kind": "p",
+        "text": "Multi-step planning and memory: An agent can pause partway through a task, look at the results so far, and decide what to do next — in short, it thinks as it goes."
+      },
+      {
+        "kind": "p",
+        "text": "Put simply: a chatbot is an advisor, while an agent is an assistant that actually does the work."
+      },
+      {
+        "kind": "h3",
+        "text": "How an AI Agent Actually Works"
+      },
+      {
+        "kind": "p",
+        "text": "Most modern agents follow a simple loop: Perceive → Plan → Act → Review."
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*TXP67nBH1FqL_VRfTZ8FuA.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "Here’s how that loop plays out:"
+      },
+      {
+        "kind": "p",
+        "text": "Perceive: The agent first takes stock of what it has in front of it — a file, an email, a webpage, or an instruction from the user."
+      },
+      {
+        "kind": "p",
+        "text": "Plan: It then figures out what steps are needed to complete the task. For complex jobs, the agent breaks things down into smaller sub-tasks."
+      },
+      {
+        "kind": "p",
+        "text": "Act: Following its plan, the agent does the actual work — running code, searching, editing a file, or calling another tool or API."
+      },
+      {
+        "kind": "p",
+        "text": "Review: The agent checks whether the outcome looks right, and if not, loops back to an earlier step."
+      },
+      {
+        "kind": "p",
+        "text": "At the center of this entire loop sits human oversight. Well-designed agent systems are built so that a person has to approve any high-stakes or risky step — sending money, sending an email, deleting a file — before it happens. That’s the real difference between a responsible AI agent and a risky “black box” automation."
+      },
+      {
+        "kind": "h3",
+        "text": "Where AI Agents Are Being Used Today"
+      },
+      {
+        "kind": "p",
+        "text": "By 2026, AI agents have moved well past the experimental stage. In several areas, they’re now part of everyday work:"
+      },
+      {
+        "kind": "p",
+        "text": "Coding agents: Developers now have agents write entire features, hunt down and fix bugs, and even refactor old codebases — with humans acting as reviewers rather than writing every line themselves."
+      },
+      {
+        "kind": "p",
+        "text": "Research and information gathering: Journalists, analysts, and students use agents to pull information from multiple sources and turn it into a concise report."
+      },
+      {
+        "kind": "p",
+        "text": "Customer support: Many companies now use agents that read a customer’s complaint, find the relevant information, and — within set limits — even complete actions like cancelling an order or issuing a refund."
+      },
+      {
+        "kind": "p",
+        "text": "Everyday office work: Writing meeting notes, sorting email, cleaning up spreadsheets, and coordinating calendars are increasingly handled by agent-based tools."
+      },
+      {
+        "kind": "p",
+        "text": "Robotics and physical AI: In warehouses, factories, and farms, AI agents are now directing robots to complete real-world tasks."
+      },
+      {
+        "kind": "p",
+        "text": "Across all of these, the most successful deployments aren’t “automation with no human in it” — they’re automation with a human in the loop. Starting with small, low-risk tasks, checking the results, and gradually extending trust to the agent has proven to be the most effective approach so far."
+      },
+      {
+        "kind": "h3",
+        "text": "Risks and Challenges"
+      },
+      {
+        "kind": "p",
+        "text": "As AI agents grow more capable, the risks grow with them. A few key challenges stand out:"
+      },
+      {
+        "kind": "p",
+        "text": "Errors and hallucination: An agent can occasionally treat incorrect information as fact and act on it — which is more damaging than a chatbot’s mistake, because an agent doesn’t just say the wrong thing, it can do the wrong thing."
+      },
+      {
+        "kind": "p",
+        "text": "Data security and privacy: The more files, emails, or system access an agent is given, the greater the risk of sensitive data leaking. This is why following a “least privilege” principle — giving an agent only the access it strictly needs — matters."
+      },
+      {
+        "kind": "p",
+        "text": "Accountability: If an agent makes a bad call and causes harm, who’s responsible — the user, the company, or the model maker? Legally and ethically, this question doesn’t yet have a fully settled answer."
+      },
+      {
+        "kind": "p",
+        "text": "Over-reliance: Leaning on agents more than necessary risks eroding people’s own skills and decision-making ability over time."
+      },
+      {
+        "kind": "p",
+        "text": "This is exactly why responsible-AI advocates keep repeating the same point: final control over money, contracts, personal relationships, and safety-critical decisions should stay with a human. An agent is meant to be an assistant here, not a replacement."
+      },
+      {
+        "kind": "h3",
+        "text": "Where This Is Headed"
+      },
+      {
+        "kind": "p",
+        "text": "A few trends are becoming clear for the next few years of AI agents:"
+      },
+      {
+        "kind": "p",
+        "text": "Multimodal agents: Agents that can understand and generate across text, images, audio, and video all at once."
+      },
+      {
+        "kind": "p",
+        "text": "Specialized agents: Instead of one “super agent” good at everything, demand is growing for agents trained specifically for fields like law, medicine, or accounting."
+      },
+      {
+        "kind": "p",
+        "text": "Agent-to-agent communication: Technology that lets multiple agents divide up and collaborate on complex tasks is advancing."
+      },
+      {
+        "kind": "p",
+        "text": "Stronger monitoring systems: Companies are building better logging of every agent action, audit trails, and mandatory human approval steps where needed."
+      },
+      {
+        "kind": "h3",
+        "text": "Conclusion"
+      },
+      {
+        "kind": "p",
+        "text": "AI agents are bringing one of the biggest shifts technology has seen — the move from chatbot to genuine “digital coworker.” But with that power comes an equal amount of responsibility. For anyone using or building this technology, the key takeaway is probably this: let the agent do the work, but keep the final decision in your own hands."
+      },
+      {
+        "kind": "image",
+        "text": "https://cdn-images-1.medium.com/max/1024/1*SuddeaoNWKvrnnPHjtLHsg.png",
+        "alt": ""
+      },
+      {
+        "kind": "p",
+        "text": "However far the technology advances, judgment, values, and accountability should ultimately stay in human hands."
+      },
+      {
+        "kind": "h3",
+        "text": "Before you go"
+      },
+      {
+        "kind": "p",
+        "text": "Please take a moment to like the post and follow the writer!"
+      },
+      {
+        "kind": "p",
+        "text": "Did you know that over 400,000 developers share what they’re building, learning, and discovering across our platforms every month? Learn how you can contribute here"
+      },
+      {
+        "kind": "p",
+        "text": "AI Agents: The Shift From Chatbots to Autonomous Digital Workers was originally published in Artificial Intelligence in Plain English on Medium, where people are continuing the conversation by highlighting and responding to this story."
+      }
+    ]
+  }
+]

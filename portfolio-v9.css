@@ -1,0 +1,22 @@
+/* v9: clear technology marks, fixed contact dock and responsive layout */
+:root{--soumi-dock-edge:18px}
+.soumi-wa-float{right:var(--soumi-dock-edge)!important;bottom:calc(104px + env(safe-area-inset-bottom))!important;z-index:88!important;max-width:fit-content;white-space:nowrap}
+.soumi-chat{right:var(--soumi-dock-edge)!important;bottom:calc(20px + env(safe-area-inset-bottom))!important;z-index:90!important}
+.soumi-chat .chat-panel{position:absolute;bottom:76px;right:0;max-height:calc(100dvh - 180px)}
+.tech-node{min-width:0!important;overflow:hidden}
+.tech-node .tech-symbol{flex:0 0 60px!important;width:60px!important;height:60px!important;display:flex;align-items:center;justify-content:center;background:#f4e4c7!important;border-radius:12px}
+.tech-node .tech-symbol img{display:block!important;width:43px!important;height:43px!important;object-fit:contain!important;opacity:1!important;visibility:visible!important;filter:none!important;mix-blend-mode:normal!important}
+.tech-node .tech-symbol svg{stroke:#fff;opacity:1!important;visibility:visible!important}
+.tech-node .tech-symbol:not(:has(img)) svg{stroke:#6a421f!important}
+.tech-node .soumi-service-mark{font:800 19px/1 system-ui,sans-serif;color:#3b2418!important;letter-spacing:-.03em}
+.tech-node .soumi-service-mark[data-kind="code"]{font-size:16px}
+.tech-node .tech-title,.tech-node h3{overflow-wrap:anywhere}
+.tech-grid{min-width:0;max-width:100%}
+body{overflow-x:clip}
+@media(max-width:700px){.soumi-wa-float{right:14px!important;bottom:calc(92px + env(safe-area-inset-bottom))!important;padding:12px!important}.soumi-wa-float span{display:none!important}.soumi-chat{right:14px!important;bottom:calc(14px + env(safe-area-inset-bottom))!important}.soumi-chat .chat-launch{width:58px;height:58px}.soumi-chat .chat-panel{bottom:70px;right:0;max-width:calc(100vw - 28px)}}
+@media(prefers-reduced-motion:reduce){.tech-node,.soumi-wa-float{animation:none!important;transition:none!important}}
+.soumi-new-publications{max-width:1200px;margin:34px auto;padding:24px;background:#f7eddb;color:#35251b;border:1px solid #c6a77b;border-radius:20px}
+.soumi-new-publications h2{font-size:clamp(1.3rem,3vw,2rem);margin:0 0 12px}.soumi-new-publications .soumi-publication-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));gap:16px}
+.soumi-new-publications article{background:#fffaf2;padding:20px;border:1px solid #ddcbb0;border-radius:14px}.soumi-new-publications a{color:#563017;font-weight:700;text-decoration:underline}.soumi-new-publications p{color:#665443;line-height:1.5}
+/* Avoid a floating CTA over an expanded chat panel */
+body.soumi-chat-open .soumi-wa-float{opacity:0!important;pointer-events:none!important;transform:translateX(120%)!important}

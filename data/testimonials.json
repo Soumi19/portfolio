@@ -1,0 +1,4 @@
+{
+  "_how_to_use": "Add one object per customer to the testimonials array, then run: node scripts/add-testimonials.mjs . Only add feedback you have written permission to publish. Fields: quote (required), name (required), role, company, country, date (YYYY-MM-DD), service (e.g. Technical writing), link (optional https URL to their profile or published work).",
+  "testimonials": []
+}

@@ -1,0 +1,15 @@
+{
+ "name": "Soumi Ganguly",
+ "short_name": "Soumi",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#f7eddb",
+ "theme_color": "#ead3b2",
+ "icons": [
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

@@ -1,0 +1,404 @@
+# Soumi Ganguly: full site summary
+
+Soumi Ganguly is a freelance technical content writer, data and AI professional and web and digital solutions specialist based in Howrah, West Bengal, India, with 4+ years of experience. She works remotely with clients in India and abroad in English, Bengali and Hindi. Phone: +91 94773 04172. Website: https://soumiganguly.com/ (last updated 8 October 2026)
+
+## Home
+URL: https://soumiganguly.com/
+Freelance technical writer in India (4+ years): documentation, technical articles, research reports and SEO content, plus data analysis, websites and CRM.
+
+Q: Who is Soumi Ganguly?
+A: Soumi Ganguly is a freelance technical content writer based in India with 4+ years of experience. She writes research-led technical articles, documentation, research reports and SEO content, and also offers data analytics, AI, website development, customised CRM, digital marketing and social media branding support to clients in India and abroad, in English, Hindi and Bengali.
+
+Q: Who is Soumi Ganguly and what technical content does she write?
+A: I am Soumi Ganguly, a technical content writer with more than four years of experience. I write research-based technology articles, AI and data science explainers, technical documentation, SEO content and analytical reports. Each brief is shaped around its audience and purpose.
+
+Q: Can you combine writing with data analysis?
+A: Yes. My work combines Python, R, SQL, Power BI, Tableau, Excel and IBM SPSS with statistical analysis, visualisation and evidence-based reporting.
+
+Q: Do you work with international clients?
+A: I welcome remote enquiries from businesses, recruiters, researchers and universities in the UK, USA and other international markets. Scope, communication and deadlines are agreed at the start.
+
+Q: Do you develop websites and customised CRM systems?
+A: Yes. I offer website development, web application development and customised CRM solutions, alongside digital marketing and social media branding services.
+
+Q: How can we start a project?
+A: Use the contact form or email with your project goal, audience, deliverables and timeline. I review the requirements so we can agree the scope, communication and next steps.
+
+Q: Is Soumi Ganguly available as a freelance technical writer for international clients?
+A: Yes. Soumi works remotely with clients in India and abroad, mainly in English, with Bengali and Hindi also available. Share your brief, audience and deadline through the contact page.
+
+Q: What is the difference between technical content writing and general content writing?
+A: Technical content writing explains specialised subjects such as software, data, engineering or research accurately for a defined audience, so it needs subject research and precise terminology. General content writing covers broader topics for a wide readership.
+
+Q: What technical writing deliverables can I ask for?
+A: Technical articles and blog posts, documentation, research reports, SEO content and academic writing support. The exact deliverables, length and review rounds are agreed before work begins.
+
+Q: Which tools does Soumi use for data analysis?
+A: Python, R, SQL, Power BI, Tableau, IBM SPSS and Excel, chosen to suit your data, your audience and the reporting tools you already use.
+
+## About
+URL: https://soumiganguly.com/about/
+Meet Soumi Ganguly, a technical content writer in India with 4+ years of experience in research writing, data analytics and digital development.
+
+Q: Who is Soumi Ganguly, in brief?
+A: Soumi Ganguly is a technical content writer and data analyst from West Bengal, India, with 4+ years of experience. She combines a writer’s judgement with an analyst’s perspective, backed by a B.Tech in Computer Science & Engineering (Data Science) and an MBA in Operations Management in progress.
+
+Q: Where is Soumi Ganguly based?
+A: Soumi Ganguly is based in Howrah, West Bengal, India, and works remotely with clients in India and abroad.
+
+Q: What languages does Soumi work in?
+A: English, Bengali and Hindi.
+
+Q: What qualifications does Soumi have?
+A: A B.Tech in Computer Science & Engineering (Data Science), a Diploma in Computer Science Engineering, an ongoing MBA in Operations Management, and IBM SPSS and Cyber Security Foundation certificates.
+
+## Services
+URL: https://soumiganguly.com/services/
+Explore technical content writing, data analytics and AI, web development, customised CRM, digital marketing and social media branding services.
+
+Q: Which services does Soumi Ganguly offer?
+A: Soumi Ganguly offers technical content writing, research, data analytics and AI/ML, website and web application development, customised CRM, digital marketing, social media branding, data annotation, IoT integration, cloud and DevOps and custom software development, plus academic and research support for students. Work is remote and scoped around your brief.
+
+Q: Explore scope and deliverables +Project scopeTechnical articles, AI explainers and SEO contentDocumentation, requirements and business reportsResearch reports, literature review support and presentationsAcademic assignment planning, draft editing and referencing supportAgreed deliverablesAn agreed outline and research approachAudience-focused draft with source attributionTechnical review, editing and agreed revisionsHow we workWe start with the reader, purpose and subject matter. I research the topic, agree the structure, develop the draft and refine it against your feedback.Project tool optionsGoogle DocsMicrosoft WordGrammarlyMarkdownZoteroWordPressExplore service ↗Research, Data Analytics & AI/MLConnect your research question with the right analysis: literature reviews, statistics, forecasting and dashboards, supported by clear interpretation.Explore scope and deliverables +Project scopeData preparation and exploratory analysisStatistical analysis and forecastingDashboards and research reportingPrediction and time-series forecastingNatural language processing and retrieval workflowsComputer vision and object detectionRecommendation prototypes and model evaluationAgreed deliverablesPrepared data and documented analytical stepsCharts, tables and an agreed dashboard or reportInterpretation of findings, assumptions and limitationsHow we workWe define the question and available data, check quality, choose an appropriate method and communicate the findings with transparent interpretation.Project tool optionsPythonRSQLPower BITableauIBM SPSSExcelMySQLPyTorchscikit-learnTensorFlowOpenAIHugging FaceExplore service ↗Website, Web & Mobile Application DevelopmentBuild a professional digital presence with responsive websites and web applications that bring content, usability and practical functionality together.Explore scope and deliverables +Project scopeResponsive business and portfolio websitesPurpose-built web application interfacesDatabase-backed learning and business workflowsResponsive web applications and progressive web appsCross-platform mobile application planningInterface design, API integration and usability reviewPlatform selection and release requirementsAgreed deliverablesAn agreed page structure and feature scopeResponsive interfaces and scoped server-side functionalityNavigation checks, documentation and handoverHow we workWe clarify the audience and user journeys, agree content and features, develop the interface and functionality, then review the site across screen sizes.Project tool optionsHTMLCSSJavaScriptReactTypeScriptPHPMySQLGitReact NativeFlutterSwiftKotlinVue.jsExplore service ↗Customised CRM SolutionsOrganise customer information, lead management and follow-ups through CRM interfaces designed around your business workflow and reporting needs.Explore scope and deliverables +Project scopeLead and customer recordsTasks, follow-ups and workflow interfacesReporting and role-based viewsAgreed deliverablesA requirements and workflow mapAgreed customer, lead and dashboard featuresDocumentation and a practical handoverHow we workWe map how information moves through your business, define the essential records and permissions, and shape the interface around the agreed process.Project tool optionsPHPSQLMySQLHTMLCSSExplore service ↗Digital MarketingGive your digital communication a clear direction through SEO website copy, editorial planning and campaign content grounded in audience needs.Explore scope and deliverables +Project scopeSEO content and website copyEditorial planning and campaign contentContent review and analytical reportingAgreed deliverablesAudience and content-direction briefA practical editorial plan and agreed copyContent recommendations and a reporting approachHow we workWe establish your audience, message and channels, research content needs, develop an editorial plan and refine the agreed material.Project tool optionsGoogle Analytics 4Google Search ConsoleGoogle AdsMeta Business SuiteWordPressExplore service ↗Social Media BrandingExpress your brand consistently through a defined voice, social profile messaging, content planning and audience-focused post copy.Explore scope and deliverables +Project scopeBrand voice and profile messagingContent pillars, post copy and calendarsConsistent social communicationAgreed deliverablesA brand-message and voice guideAn agreed content calendar and post copyCreative direction and profile-content recommendationsHow we workWe clarify how you want to be understood, define your content pillars and tone, then develop a manageable publishing plan and consistent messages.Project tool optionsCanvaMeta Business SuiteBufferExplore service ↗Data AnnotationClear labelling standards for AI and machine learning datasets.Explore scope and deliverables +Project scopeImage, text, audio and video annotation workflowsHuman review with appropriate AI-assisted toolsLabelling guidelines, validation and quality checksSecure dataset organisation and handoverAgreed deliverablesAn agreed requirements and feasibility briefDefined implementation scope and review criteriaDocumentation and handover for agreed deliverablesHow we workWe clarify the problem, assess feasibility, agree the scope and technical responsibilities, then review the deliverables against your requirements.Project tool optionsLabel StudioSuperAnnotateCVATPythonAWS SageMaker Ground TruthDiscuss this project ↗IoT IntegrationConnect devices, data and interfaces around a practical monitoring workflow.Explore scope and deliverables +Project scopeDevice communication and data collection planningReal-time monitoring dashboardsEdge processing and cloud integrationAlerts and predictive maintenance prototypesAgreed deliverablesAn agreed requirements and feasibility briefDefined implementation scope and review criteriaDocumentation and handover for agreed deliverablesHow we workWe clarify the problem, assess feasibility, agree the scope and technical responsibilities, then review the deliverables against your requirements.Project tool optionsMQTTAzure IoTAWS IoTLoRaWANRaspberry PiDiscuss this project ↗Cloud & DevOpsPlan repeatable deployments and infrastructure suited to your application.Explore scope and deliverables +Project scopeCloud deployment and migration planningContinuous integration and delivery workflowsInfrastructure as code and environment managementContainerisation, monitoring and handoverAgreed deliverablesAn agreed requirements and feasibility briefDefined implementation scope and review criteriaDocumentation and handover for agreed deliverablesHow we workWe clarify the problem, assess feasibility, agree the scope and technical responsibilities, then review the deliverables against your requirements.Project tool optionsAWSAzureGoogle CloudDockerKubernetesTerraformDiscuss this project ↗Custom Software DevelopmentTranslate specific operational needs into an agreed application scope.Explore scope and deliverables +Project scopeRequirements gathering and software architectureCustom application interfaces and integrationsModernisation and migration planningTesting, maintenance planning and documentationAgreed deliverablesAn agreed requirements and feasibility briefDefined implementation scope and review criteriaDocumentation and handover for agreed deliverablesHow we workWe clarify the problem, assess feasibility, agree the scope and technical responsibilities, then review the deliverables against your requirements.Project tool optionsReactTypeScriptNode.jsPythonPostgreSQLMongoDBDiscuss this project ↗INDUSTRY APPLICATIONSTechnology in context.Possible applications across six sectors, shaped around the organisation, users and data involved. These are project directions to discuss during discovery.01 / HEALTHCAREHealthcarePatient-management interfacesTelemedicine workflowsHealth-data reportingResearch and AI prototype supportDiscuss healthcare requirements ↗02 / EDUCATIONEducationLearning management systemsVirtual classroom interfacesEducational applicationsAssessment and learning analyticsDiscuss education requirements ↗03 / FINTECHFintechFinancial dashboardsPayment-provider integrationsRisk-analysis prototypesFraud-pattern explorationDiscuss fintech requirements ↗04 / REAL ESTATEReal EstateProperty listing websitesLead and customer managementVirtual-tour integrationsProperty-management dashboardsDiscuss real estate requirements ↗05 / MANUFACTURINGManufacturingIoT monitoring interfacesPredictive maintenance analysisSupply-chain reportingQuality-control analyticsDiscuss manufacturing requirements ↗06 / RETAIL & ECOMMERCERetail & eCommerceOnline storefrontsInventory and sales reportingRecommendation prototypesConnected customer workflowsDiscuss retail & ecommerce requirements ↗PROJECT TECHNOLOGY OPTIONSThe right stack for the brief.An ecosystem of tools to consider when planning a solution. Selection depends on requirements, compatibility and the agreed delivery scope. My hands-on skills and completed work are documented on the About and Projects pages.FrontendTools to considerReactVue.jsAngularNext.jsTypeScriptTailwind CSSBackendTools to considerNode.jsPythonDjangoFastAPIJavaSpring.NETMobileTools to considerReact NativeFlutterSwiftKotlinIonicExpoCloud & DevOps toolsTools to considerAWSAzureGoogle CloudDockerKubernetesTerraformDatabasesTools to considerPostgreSQLMongoDBMySQLRedisElasticsearchCassandraAI & machine learningTools to considerTensorFlowPyTorchOpenAIHugging Facescikit-learnKerasIoT & embedded systemsTools to considerMQTTAzure IoTAWS IoTLoRaWANRaspberry PiArduinoTesting & qualityTools to considerJestCypressSeleniumPytestJUnitPostmanMy skills & backgroundExplore completed projectsMY APPROACH TO YOUR PROJECTA considered approach. From brief to handover.Clear requirements, careful researchand a collaborative review process.01Research-led writingClear structure, careful research and source attribution, shaped around your subject and the needs of your readers.02Technical clarityTechnical explanations tailored to the intended audience, with terminology, depth and format agreed in the brief.03Transparent analysisDocumented analytical steps, clearly explained findings and an honest account of assumptions and limitations.04Purposeful developmentWebsites, applications and CRM workflows shaped around agreed requirements, practical user journeys and responsive interfaces.05Consistent communicationBrand messaging, website copy and social content developed around a coherent voice and a clear audience.06An agreed delivery processScope, deliverables, review stages and handover discussed at the outset, with feedback built into the working process.Share your goal, audience and timeline. We’ll define the deliverables and a practical route from brief to completion.Discuss your project ↗HOW WE WORK TOGETHERA clear process. A shared understanding.01UnderstandClarify your goals, audience, scope and deliverables.02ResearchInvestigate the subject, evidence and technical requirements.03CreateDevelop the content, analysis or digital experience.04RefineReview together and improve the agreed deliverables.A FEW USEFUL ANSWERSYour questions, answered.Who is Soumi Ganguly and what technical content does she write?
+A: I am Soumi Ganguly, a technical content writer with more than four years of experience. I write research-based technology articles, AI and data science explainers, technical documentation, SEO content and analytical reports. Each brief is shaped around its audience and purpose.
+
+Q: Can you combine writing with data analysis?
+A: Yes. My work combines Python, R, SQL, Power BI, Tableau, Excel and IBM SPSS with statistical analysis, visualisation and evidence-based reporting.
+
+Q: Do you work with international clients?
+A: I welcome remote enquiries from businesses, recruiters, researchers and universities in the UK, USA and other international markets. Scope, communication and deadlines are agreed at the start.
+
+Q: Do you develop websites and customised CRM systems?
+A: Yes. I offer website development, web application development and customised CRM solutions, alongside digital marketing and social media branding services.
+
+Q: How can we start a project?
+A: Use the contact form or email with your project goal, audience, deliverables and timeline. I review the requirements so we can agree the scope, communication and next steps.
+
+Q: Which service should I start with?
+A: Start with the one closest to your outcome: technical writing for articles and documentation, data analytics for evidence and reports, web development for a site or app, CRM for customer tracking, or academic support for research projects. If unsure, describe your goal on the contact page.
+
+Q: Can I combine services in one project?
+A: Yes. Writing, analytics and web development often work together, for example a data report with a dashboard and a supporting web page. The scope is agreed before work begins.
+
+## Technical writing
+URL: https://soumiganguly.com/writing/
+Hire a freelance technical writer in India for documentation, technical articles, research reports and SEO content. Remote clients in India, the UK and the USA.
+
+Q: What does a freelance technical content writer do?
+A: A technical content writer turns complex subjects such as software, AI, data science and research into clear articles, documentation and reports. Soumi Ganguly offers research-led technical articles, SEO content, technical documentation, business and research reports and academic writing guidance for clients in India, the UK, the USA and beyond.
+
+Q: Who can hire Soumi Ganguly for technical content writing?
+A: Businesses, software teams, publishers, researchers and professionals can hire Soumi Ganguly for technical content writing. She is based in India, has 4+ years of technical content writing experience and welcomes remote briefs from India, the UK, the USA and other international markets.
+
+Q: What does your technical writing service include?
+A: Services include research-based technology articles, AI and data science explainers, technical documentation, requirements specifications, SEO website content, research reports and presentations. Scope and review stages are agreed for each brief.
+
+Q: Do you offer academic writing and assignment support?
+A: Yes. Support includes assignment planning, outlines, draft feedback, editing, referencing guidance, literature review organisation and explanation of research methods. The work helps you develop your own draft and follow your institution’s academic requirements.
+
+Q: Can you connect research writing with data analysis?
+A: Yes. Depending on the brief, I can support Python, R, IBM SPSS, Excel, Power BI or Tableau analysis and help explain the methodology, visualisations, findings and limitations in a structured report.
+
+Q: Where can I view your writing samples?
+A: Full research reports and presentations appear in the Writing Samples section on this page. The separate Articles & Publications page links to published articles and their original sources.
+
+Q: How do I request a writing project from India or abroad?
+A: Use the writing enquiry button or contact form. Include your subject, audience, deliverables, required format or word count, available material, referencing style if relevant, deadline and time zone. I review the brief before we agree scope and next steps.
+
+Q: How much does a freelance technical writer cost?
+A: Cost depends on the scope: subject complexity, length, depth of research, number of revisions and deadline. Share your brief on the contact page and the scope and quote can be discussed before work begins.
+
+Q: What is technical documentation?
+A: Technical documentation explains how a product, system or process works or how to use it. Examples include user guides, how-to articles, process documentation and reference material.
+
+Q: Can you write SEO-friendly technical blog posts?
+A: Yes. Articles can be structured around search intent, clear headings and accurate terminology so that they are useful to readers and easy for search engines to understand.
+
+Q: What do you need from me to start a technical writing project?
+A: Send the audience, purpose, subject matter, any source material, preferred tone, length and deadline. A clearer brief means fewer revisions.
+
+## Data analytics and AI
+URL: https://soumiganguly.com/data-ai/
+Freelance data analyst for dashboards, forecasting and machine learning with Python, R, SQL, Power BI, Tableau and SPSS. Clients in India, the UK, the USA and worldwide.
+
+Q: What does a data analytics and AI service include?
+A: Data analytics turns raw data into evidence you can act on. Soumi Ganguly supports data cleaning, exploratory analysis, statistical modelling, forecasting and visual reporting, with machine learning and computer vision project experience, using Python, R, SQL, Power BI, Tableau, IBM SPSS and Excel.
+
+Q: Which data analysis and research tasks can you support?
+A: I support data cleaning, exploratory analysis, survey statistics, forecasting, data visualisation, dashboard development and applied machine learning. The method is chosen around the research question, dataset and reporting requirements.
+
+Q: Which software do you use for analytics?
+A: My toolkit includes Python, R, SQL, Power BI, Tableau, IBM SPSS and Excel. Depending on the brief, I use Pandas, NumPy, scikit-learn, Matplotlib or ggplot2 for preparation, modelling and visualisation.
+
+Q: What evidence of your data and AI work is available?
+A: My project portfolio includes computer vision, anomaly detection, time-series forecasting and business dashboards. Public GitHub repositories provide source code and documentation where available.
+
+Q: What is the difference between data analytics and machine learning?
+A: Data analytics examines existing data to describe what happened and why, usually through summaries, charts and statistical tests. Machine learning builds models that learn patterns from data to predict or classify new cases.
+
+Q: Which tools do you use for dashboards?
+A: Power BI and Tableau are used for interactive dashboards, with Excel, SQL, Python or R used to prepare and analyse the data behind them.
+
+Q: Can you help a small business with data analysis?
+A: Yes. Sales, customer or operations data can be turned into clear reports and dashboards that show trends and support decisions. Start by describing the question you want answered.
+
+Q: How should I handle sensitive data?
+A: Discuss data sensitivity before sharing anything. Where possible, send anonymised data and agree how files will be shared and handled before analysis begins.
+
+## Web development
+URL: https://soumiganguly.com/web-development/
+Responsive websites and web applications built with PHP, SQL and HTML/CSS, plus customised CRM, for businesses in India, the UK, the USA and worldwide.
+
+Q: What web development support is offered?
+A: Soumi Ganguly builds responsive websites and web applications around your real workflow, including professional portfolios, business websites, purpose-built web applications and customised CRM. Hands-on experience includes a PHP, SQL and HTML/CSS Virtual Learning Environment with role-based access controls and input sanitisation.
+
+Q: What types of websites and applications do you develop?
+A: I offer responsive professional portfolios, business websites, web applications and customised CRM interfaces. Features, backend requirements and handover materials are agreed before implementation.
+
+Q: Can a website include a dashboard or customer workflow?
+A: Yes. A scoped web application can include dashboards, customer records, role-based interfaces and agreed workflow features. The design follows the people using the system and the information they need.
+
+Q: Where can I review your development experience?
+A: The Projects page includes public repositories and selected work from my CV. My Virtual Learning Environment project used PHP, SQL and HTML/CSS at UR Technology and Computers.
+
+Q: What does a freelance web developer do?
+A: A freelance web developer plans, builds and maintains websites and web applications, from the pages visitors see to the server-side logic and database behind them.
+
+Q: Will my website work well on mobile phones?
+A: Yes. Sites are built with responsive layouts and reviewed across screen sizes, so pages adapt from small phones to large desktop monitors.
+
+Q: What is the difference between a website and a web application?
+A: A website mainly presents information. A web application lets users do things, such as sign in, submit forms or manage records, so it needs server-side logic, a database and access controls.
+
+Q: Can you build a site with a contact form or user login?
+A: Yes. Forms and login features can be built with input sanitisation and role-based access controls, so different users see only what they should.
+
+## Custom CRM
+URL: https://soumiganguly.com/crm/
+Customised CRM development: customer records, lead pipelines, follow-up tasks and reporting mapped to your workflow, with documentation and handover.
+
+Q: What is a customised CRM?
+A: A customised CRM is a customer-management system shaped around how your team actually works: customer records, lead pipelines, follow-up tasks and reporting in one workflow. Requirements, user roles and essential features are mapped before implementation, and you receive documentation and a practical handover.
+
+Q: What can a customised CRM include?
+A: A customised CRM can include customer records, lead pipelines, tasks, follow-up workflows, role-based dashboards and reporting views. The agreed scope reflects your business process and existing systems.
+
+Q: How is the CRM scope agreed?
+A: We first map the workflow, user roles and information requirements. The brief defines the features, technical responsibilities, review criteria and documentation before development begins.
+
+Q: Can CRM development connect with website development?
+A: Yes. CRM requirements can be discussed alongside a website or web application brief, with interfaces and data flows planned around the agreed business workflow.
+
+Q: What is a custom CRM?
+A: A custom CRM is customer relationship management software built around how your team actually works, tracking customer records, leads, follow-up tasks and reports in one place instead of forcing your process into a generic tool.
+
+Q: Do I need a CRM or is a spreadsheet enough?
+A: A spreadsheet is enough while one or two people track a few contacts. A CRM becomes useful when several people need shared records, follow-up reminders, permissions and reports.
+
+Q: What can a custom CRM track?
+A: Typical items are customer details, enquiry sources, lead stages, follow-up tasks, notes and sales or service reports. The fields and stages are defined from your workflow map.
+
+## Digital marketing
+URL: https://soumiganguly.com/digital-marketing/
+SEO content, editorial planning and campaign writing built around search intent and your business goals. Remote support for brands in India and worldwide.
+
+Q: What does SEO content and digital marketing support include?
+A: Soumi Ganguly provides search-focused website copy, articles, editorial planning and campaign content built around search intent, audience questions and business goals, with analytics-driven recommendations. Tools discussed include Google Analytics 4, Google Search Console, Google Ads, Meta Business Suite and WordPress.
+
+Q: Which digital marketing services do you offer?
+A: I offer SEO-focused website copy, content strategy, editorial planning, articles and digital campaign content support. The brief is shaped around the audience, search intent and business goals.
+
+Q: Which tools are relevant to a digital marketing brief?
+A: Depending on the scope and available accounts, digital marketing may use Google Analytics 4, Google Search Console, Google Ads, Meta Business Suite and WordPress. Tool selection follows the actual reporting and content requirements.
+
+Q: Can you write technical marketing content?
+A: Yes. My technical writing background supports research-led content for software, AI, data and other technology subjects. The content explains the topic clearly while addressing the audience’s questions.
+
+Q: What is SEO content writing?
+A: SEO content writing creates pages and articles that answer what people search for, using a clear structure, relevant terms and accurate information so both readers and search engines can understand the page.
+
+Q: How is SEO content different from social media content?
+A: SEO content is built to be found through search and stays useful over time. Social content is built for feeds and conversation and is usually shorter-lived. A plan often uses both.
+
+Q: What goes into an editorial plan?
+A: An editorial plan lists audience, topics, search intent, formats, publishing dates and review steps, so content is produced consistently instead of ad hoc.
+
+## Social media branding
+URL: https://soumiganguly.com/social-branding/
+Brand voice, content pillars, post copy and creative direction for a consistent social presence. For entrepreneurs and businesses in India and abroad.
+
+Q: What is social media branding?
+A: Social media branding gives a business a consistent voice across its channels: profile copy, content pillars, captions, post planning and creative direction. Deliverables include a brand messaging guide, content pillars and calendar, post copy and social profile content.
+
+Q: What does your social media branding service include?
+A: Social media branding includes brand voice, profile copy, content pillars, post planning, captions and guidance on visual consistency. Deliverables are agreed around the platforms, audience and communication goals.
+
+Q: Which tools support social content planning?
+A: Canva can support creative production, Meta Business Suite can support Meta platform publishing, and Buffer can support scheduling. The agreed workflow determines which tools and accounts are needed.
+
+Q: Can social branding align with my website content?
+A: Yes. Brand messaging, website copy and social content can follow the same voice and content direction, helping people recognise your business across its digital channels.
+
+Q: What is a content pillar?
+A: A content pillar is a core theme your brand returns to regularly, such as education, behind-the-scenes or customer stories. Pillars keep posts consistent and make planning easier.
+
+Q: How often should a small business post on social media?
+A: It depends on your capacity. Consistency matters more than volume, so the plan should be manageable enough to keep up, with a schedule agreed around your platforms and audience.
+
+Q: What is a brand voice?
+A: Brand voice is the personality and tone of your messages, for example warm, expert or playful. A defined voice makes posts, captions and replies feel like they come from the same brand.
+
+## Academic research support
+URL: https://soumiganguly.com/academic-research-support/
+Assignment planning, feedback on your own draft, editing and Harvard/APA referencing support for students in India, the UK, the USA and worldwide.
+
+Q: What is academic research support?
+A: Academic research support is guidance that helps you understand an assignment brief, plan a research approach, organise evidence and improve your own writing and referencing. It supports your work rather than replacing it: You remain responsible for authorship and submission, and for following your institution’s academic-integrity rules.
+
+Q: Can you help with my assignment?
+A: Yes. Share the brief and your current work to discuss planning, feedback, editing, referencing or analytical guidance. You remain responsible for authorship and submission, and for following your institution’s academic-integrity rules.
+
+Q: Do you support international students?
+A: Remote enquiries are welcome from students in India, the UK, the USA and other countries. Include your university requirements, time zone and deadline.
+
+Q: Which referencing styles can you help with?
+A: Harvard and APA referencing are covered, including checking in-text citations and reference lists against the style your university requires.
+
+Q: Is this the same as having my assignment written for me?
+A: No. Support is guidance, feedback and editing on your own work. You remain responsible for authorship and for following your institution’s academic-integrity policy.
+
+Q: How do I get started?
+A: Use the contact page or email soumiganguly2021@gmail.com with your topic, brief, draft and deadline.
+
+Q: Can you help me plan a research question?
+A: Yes. You can discuss narrowing a topic into a focused, answerable research question and choosing evidence that fits it.
+
+## Dissertation and thesis support
+URL: https://soumiganguly.com/dissertation-thesis-support/
+Dissertation and thesis research help: topic, literature review, methodology, results interpretation and editing guidance for students in India and worldwide.
+
+Q: What is dissertation and thesis research support?
+A: Dissertation and thesis support is stage-by-stage guidance on a long research project: refining the topic, aligning aims and objectives, structuring the literature review, explaining the methodology, interpreting results and editing. It supports your own research and writing. You remain responsible for authorship and submission, and for following your institution’s academic-integrity rules.
+
+Q: What should I send for a dissertation enquiry?
+A: Send your research topic, programme level, brief, supervisor feedback, completed chapters, referencing style and deadline. Include the dataset or questionnaire if analysis is required.
+
+Q: Can you support a thesis already in progress?
+A: Yes. State the specific chapter or problem you need help with so the scope can be discussed before work begins.
+
+Q: Do you write the dissertation for me?
+A: No. Support is guidance, feedback and editing on your own research. You remain responsible for authorship and submission, and for following your institution’s academic-integrity rules.
+
+Q: Can you help with methodology and survey design?
+A: Yes. Methodology guidance covers choosing between qualitative and quantitative approaches and designing surveys so the method fits your research question.
+
+Q: Can you help interpret my results?
+A: Yes. You can discuss how to read your findings and explain them in the discussion chapter. For statistical analysis see research data analysis support.
+
+Q: Can you help with the literature review?
+A: Yes. Guidance covers searching for sources, organising them by theme and writing a critical synthesis in your own words rather than a list of summaries.
+
+## SPSS, R and Python research analysis
+URL: https://soumiganguly.com/student-data-analysis/
+SPSS, R and Python data analysis help for dissertations and research: data cleaning, t-tests, chi-square, regression and plain-language interpretation of output.
+
+Q: What is SPSS, R and Python research analysis support?
+A: It is help with analysing research data: checking a dataset, running statistical methods that suit your research question in SPSS, R or Python, presenting the results in readable tables and charts, and explaining what the output means. Methods follow your data and assumptions; significant results cannot be promised.
+
+Q: Which tools can I discuss?
+A: SPSS, R, Python, Excel, Tableau and Power BI are included in the portfolio. Share your required software and method when contacting Soumi.
+
+Q: Can you guarantee statistically significant findings?
+A: No. Findings depend on the data and appropriate analysis. Support focuses on accurate methods, transparent reporting and defensible interpretation.
+
+Q: What data format should I send?
+A: Send the dataset in the format you have, for example an Excel or CSV file or an SPSS file, along with a short description of each variable.
+
+Q: Will you explain the results to me?
+A: Yes. Interpretation of SPSS, R or Python output is part of the support, so you can explain the findings in your own report.
+
+Q: I only need charts. Is that possible?
+A: Yes. You can ask for readable research visualisations on their own. Share the data and the message each chart should carry.
+
+Q: Do you offer SPSS help for dissertation data analysis?
+A: Yes. SPSS support covers checking your dataset, choosing methods that suit the research question, running the tests and explaining the output so you can report the results yourself.
+
+Q: Which statistical tests can you guide me on?
+A: Common tests include t-tests, chi-square tests, correlation, regression and reliability analysis, alongside descriptive statistics and visualisation. The right test depends on your variables and assumptions.
+
+## International remote collaboration
+URL: https://soumiganguly.com/international-services/
+Work remotely with India-based technical writer Soumi Ganguly. Writing, data analytics and digital services for clients in India, the UK, the USA and beyond.
+
+Q: Does Soumi Ganguly work with international clients?
+A: Yes. Soumi works remotely from India with clients in India, the UK, the USA and other markets. Scope, deliverables, time zone and review stages are agreed before work begins.
+
+Q: Where is Soumi Ganguly based?
+A: Soumi Ganguly is based in Howrah, West Bengal, India. She welcomes remote technical writing, data analytics and digital development enquiries from India, the UK, the USA and other international markets.
+
+Q: Can we work together remotely from another country?
+A: Yes. Share your project goals, audience and preferred time zone through the contact form. Communication channels, review stages and any meeting times are agreed before work starts.
+
+Q: Which services are available for international projects?
+A: Services include technical content writing, research communication, data analytics, website and web application development, customised CRM, digital marketing and social media branding. Each brief is assessed for scope and feasibility.
+
+Q: What should I include in my project enquiry?
+A: Include your objective, target audience, required deliverables, available source material or data, preferred timeline, budget range and relevant technical constraints. This helps define a realistic scope.
+
+Q: How can I assess your work before enquiring?
+A: Review the Articles & Publications page for original published writing, the Projects page for technical work, and the Experience page for professional background. Published PDF samples, when available, can be viewed on the Technical Writing page.
+
+Q: Does a time-zone difference affect delivery?
+A: Time zone and deadline are agreed at the start, and updates are shared in writing so work can progress across time zones without live meetings for every step.
+
+Q: Which countries can I contact Soumi from?
+A: Remote enquiries are welcome from India, the UK, the USA and other countries.
+
+## Experience
+URL: https://soumiganguly.com/experience/
+Five roles explained in plain words: freelance technical content writer, web developer, book author and subject matter expert, with what each role involved.
+
+Q: What is Soumi Ganguly’s professional background?
+A: Soumi Ganguly has worked as a freelance technical content writer since June 2022, with earlier experience as a web developer intern, book author and subject matter expert. Each role below is explained in plain words with five key points.
+
+## Education
+URL: https://soumiganguly.com/education/
+B.Tech in Computer Science (Data Science), MBA in Operations Management and a CSE diploma, explained in plain words with the skills each one adds.
+
+Q: What is Soumi Ganguly’s educational background?
+A: Soumi Ganguly holds a B.Tech in Computer Science & Engineering (Data Science) from MCKV Institute of Engineering (2022–2026) and a Diploma in Computer Science Engineering (2019–2022), and is pursuing an MBA in Operations Management at IGNOU (2026–present). She also holds IBM SPSS and Cyber Security Foundation certificates.
+
+## Projects
+URL: https://soumiganguly.com/projects/
+Browse data analytics, machine learning and web development projects with tools, methods and public repositories by Soumi Ganguly.
+
+Q: What projects does Soumi Ganguly feature?
+A: The portfolio features data analytics, machine learning, forecasting and web development projects, each with technical context, selected tools and a link to the public GitHub repository. Use the filters or search to find a topic or tool such as Python, R, ARIMA or YOLOv5.
+
+Q: What kinds of projects are shown here?
+A: Data analytics, machine learning, forecasting and web development projects, with the tools used and a link to the public repository for each.
+
+Q: Can I see the code?
+A: Yes. Each project links to its public GitHub repository, and many include notebook output so you can follow the method.
+
+Q: Can I commission similar work?
+A: Yes. Describe your goal and data on the contact page and the scope can be discussed before work begins.
+
+## Contact
+URL: https://soumiganguly.com/contact/
+Contact Soumi Ganguly for technical writing, academic writing support, research analytics and digital projects. Remote enquiries from India and abroad.
+
+Q: How should I contact Soumi Ganguly?
+A: The quickest way is to email soumiganguly2021@gmail.com or use the enquiry form on this page with a short brief: your goal, who the work is for, the deliverables and your timeline. Remote enquiries are welcome from India, the UK, the USA and other countries.
+
+Q: What should I include in my enquiry?
+A: Share your goal, who the work is for, the deliverables you expect, your timeline and any existing material. A clear brief helps the scope be agreed quickly.
+
+Q: Which countries do you work with?
+A: Remote enquiries are welcome from India, the UK, the USA and other international markets.
+
+Q: Can I discuss a research or academic project?
+A: Yes. Academic writing support, research reports and data analysis enquiries are welcome. Authorship and submission remain with you.
+
+Q: How can I reach Soumi directly?
+A: By email at soumiganguly2021@gmail.com, or through the profiles listed on this page (Medium, Muck Rack, GitHub and LinkedIn).

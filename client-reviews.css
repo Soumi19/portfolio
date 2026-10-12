@@ -1,0 +1,20 @@
+/* Client reviews: responsive accessible carousel */
+.sg-review-carousel{margin:1.5rem 0;max-width:100%;overflow:hidden}
+.sg-review-track{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.25rem}
+.sg-review-card{box-sizing:border-box;min-width:0;background:#fffaf2;color:#36271d;border:1px solid #d7b785;border-radius:24px;padding:1.6rem;display:flex;flex-direction:column;gap:.6rem;box-shadow:0 8px 24px #37200e16;transition:transform .25s,box-shadow .25s}
+.sg-review-card:hover{transform:translateY(-4px);box-shadow:0 14px 28px #37200e2b}
+.sg-review-card h3{font-size:1.25rem;line-height:1.35;margin:.4rem 0}
+.sg-review-quote{font-size:1rem;line-height:1.65;overflow-wrap:anywhere;flex:1}
+.sg-review-author{margin-top:auto}
+.sg-review-service{font-size:.85rem;opacity:.8}
+.sg-review-controls{display:flex;justify-content:center;align-items:center;gap:1.25rem;margin:1.3rem 0}
+.sg-review-controls button{cursor:pointer;background:#38291f;color:#fff8ee;border:1px solid #ba8a4a;border-radius:999px;width:44px;height:44px;font-size:1.3rem}
+.sg-review-status{font-variant-numeric:tabular-nums}
+.sg-stars{color:#bc8326;letter-spacing:2px;font-size:1.2rem}
+.sg-stars .empty{color:#d8cbb6}
+.sg-stars small{font-size:.8rem;letter-spacing:0;color:#6c4d2b}
+.sg-rating-pending{font-size:.8rem;color:#66594a}
+.review-grid .sg-rating-line{margin:.5rem 0}
+@media(max-width:1099px){.sg-review-track{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:699px){.sg-review-track{grid-template-columns:minmax(0,1fr)}.sg-review-card{padding:1.25rem}}
+@media(prefers-reduced-motion:reduce){.sg-review-card{transition:none}.sg-review-card:hover{transform:none}}

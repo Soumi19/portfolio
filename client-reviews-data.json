@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Aarav Mehta",
+    "country": "India",
+    "project": "AI & Technology Article Series",
+    "quote": "Soumi delivered research-led AI and technology content that combined technical accuracy with clear, reader-friendly explanations. Complex concepts in artificial intelligence, machine learning and data analytics were translated into accessible content while maintaining a strong SEO structure. The articles were organised, well researched and suitable for both technical and non-technical audiences.",
+    "service": "Technical Content Writing"
+  },
+  {
+    "name": "Emily Carter",
+    "country": "United Kingdom",
+    "project": "SaaS Technical Content & Documentation",
+    "quote": "The technical content developed for our SaaS project was clear, structured and closely aligned with the intended audience. Software concepts were explained without unnecessary jargon, while research and SEO considerations were incorporated naturally. The result was professional content that could support both user understanding and organic search visibility.",
+    "service": "Technical & SaaS Content Writing"
+  },
+  {
+    "name": "Rohan Mukherjee",
+    "country": "India",
+    "project": "Research & Technology Documentation",
+    "quote": "The project required structured technical documentation supported by credible research, and the final material was significantly clearer than our original draft. References, technical explanations and document organisation were handled carefully, producing a professional resource that was easy to navigate.",
+    "service": "Research & Technical Documentation"
+  },
+  {
+    "name": "Daniel Brooks",
+    "country": "United States",
+    "project": "Data Analytics Content Project",
+    "quote": "The analytics-focused content successfully connected technical concepts with practical business applications. Topics involving data analysis, dashboards and predictive modelling were presented clearly without oversimplifying the subject. The combination of research, technical understanding and readable writing was particularly valuable.",
+    "service": "Data & Technology Content Writing"
+  },
+  {
+    "name": "Dr. Ananya Sharma",
+    "country": "India",
+    "project": "SPSS Statistical Analysis & Research",
+    "quote": "The SPSS statistical analysis was structured around the research objectives rather than simply presenting software outputs. Reliability analysis, descriptive statistics, correlation and hypothesis testing were clearly interpreted. The findings were presented in a way that made the quantitative research considerably easier to understand and report.",
+    "service": "Research & Statistical Analysis"
+  },
+  {
+    "name": "Charlotte Wilson",
+    "country": "United Kingdom",
+    "project": "Power BI Business Intelligence Dashboard",
+    "quote": "Our raw Excel data was transformed into an interactive Power BI dashboard with clearly defined KPIs, trends and business-focused visualisations. The reporting structure made performance monitoring much easier and gave us a clearer understanding of operational results.",
+    "service": "Business Intelligence & Data Analytics"
+  },
+  {
+    "name": "Arjun Nair",
+    "country": "India",
+    "project": "Python Machine Learning & Predictive Analytics",
+    "quote": "The machine-learning project followed a complete workflow covering preprocessing, exploratory data analysis, model development and performance evaluation. Python and scikit-learn were used effectively to compare predictive models, while the final interpretation clearly explained both performance metrics and practical findings.",
+    "service": "AI & Machine Learning"
+  },
+  {
+    "name": "Michael Thompson",
+    "country": "Canada",
+    "project": "Predictive Analytics & Forecasting",
+    "quote": "The forecasting project was approached systematically from data preparation through model comparison and evaluation. Python-based analysis, visualisation and forecasting results were combined into a coherent analytical narrative rather than being presented as disconnected technical outputs.",
+    "service": "Predictive Analytics"
+  },
+  {
+    "name": "Sofia Martinez",
+    "country": "Spain",
+    "project": "Tableau Business Analytics Dashboard",
+    "quote": "A complicated business dataset was transformed into an intuitive Tableau dashboard. Interactive filters, KPIs and visualisations were organised around the actual analytical questions, allowing trends and performance patterns to be explored much more efficiently.",
+    "service": "Data Visualisation & Analytics"
+  },
+  {
+    "name": "Priya Sen",
+    "country": "India",
+    "project": "Professional Portfolio Website",
+    "quote": "My professional portfolio was transformed into a modern, responsive website with much stronger presentation of my work, skills and projects. Mobile responsiveness, navigation, content hierarchy and on-page SEO were considered throughout the development process.",
+    "service": "Portfolio Website Development"
+  },
+  {
+    "name": "Oliver Bennett",
+    "country": "United Kingdom",
+    "project": "Responsive Business Website",
+    "quote": "Our business requirements were converted into a professional website that works smoothly across desktop and mobile devices. The development process considered usability, service-page structure, responsive design and search visibility rather than focusing only on appearance.",
+    "service": "Business Website Development"
+  },
+  {
+    "name": "Neha Kapoor",
+    "country": "India",
+    "project": "Service Business Website",
+    "quote": "The finished website feels customised to the business rather than like a generic template. Service pages, calls to action, navigation and content hierarchy were structured around how prospective customers would actually discover and evaluate our services.",
+    "service": "Website Design & Development"
+  },
+  {
+    "name": "Ethan Miller",
+    "country": "United States",
+    "project": "Custom Web Application Prototype",
+    "quote": "Our concept was converted into a functional web application prototype with a logical user journey and clean interface. The development process was iterative, and requested changes were incorporated efficiently without losing consistency across the application.",
+    "service": "Web Application Development"
+  },
+  {
+    "name": "Vikram Malhotra",
+    "country": "India",
+    "project": "Sales Lead Management CRM",
+    "quote": "The customised CRM brought lead capture, customer status, follow-ups and sales activity into one structured workflow. Our team gained a clearer view of the pipeline while reducing dependence on separate spreadsheets and manual tracking.",
+    "service": "Custom CRM Development"
+  },
+  {
+    "name": "James Anderson",
+    "country": "Australia",
+    "project": "Customer Workflow CRM",
+    "quote": "We needed a CRM that reflected our actual customer journey rather than forcing the business into a generic system. The customised workflow made customer tracking, follow-up activities and reporting significantly easier for the team.",
+    "service": "CRM & Workflow Development"
+  },
+  {
+    "name": "Sneha Iyer",
+    "country": "India",
+    "project": "Sales Follow-Up Automation",
+    "quote": "The new CRM workflow gave our team a much more organised approach to customer follow-ups. Lead stages, activity records and reporting were structured around our existing sales process, making everyday customer management more consistent.",
+    "service": "CRM Automation"
+  },
+  {
+    "name": "Lucas Martin",
+    "country": "France",
+    "project": "CRM Reporting Dashboard",
+    "quote": "The CRM dashboard provided a much clearer picture of customer activity and sales-pipeline performance. Reporting was designed to remain straightforward for everyday users while still giving management useful performance information.",
+    "service": "CRM Analytics & Reporting"
+  },
+  {
+    "name": "Rahul Verma",
+    "country": "India",
+    "project": "SEO & Digital Marketing Strategy",
+    "quote": "The digital marketing strategy connected SEO, website content, analytics and campaign planning into one coherent approach. Instead of treating individual channels separately, the recommendations focused on improving overall search visibility and digital customer acquisition.",
+    "service": "Digital Marketing"
+  },
+  {
+    "name": "Sophie Turner",
+    "country": "United Kingdom",
+    "project": "SEO Content Optimisation",
+    "quote": "Our website content became considerably more search-focused without sounding artificially written for search engines. Keywords, headings, internal linking and user intent were incorporated naturally while keeping the copy readable and useful.",
+    "service": "SEO Content Optimisation"
+  },
+  {
+    "name": "Aditya Bose",
+    "country": "India",
+    "project": "GA4 & Search Console Analytics",
+    "quote": "Google Analytics and Search Console reporting gave us a much clearer understanding of website traffic, search queries and user behaviour. The insights helped identify which pages were performing and where optimisation was required.",
+    "service": "Website Analytics"
+  },
+  {
+    "name": "Liam Parker",
+    "country": "New Zealand",
+    "project": "Digital Campaign Strategy",
+    "quote": "The campaign plan was practical, measurable and aligned with our business objectives. Audience behaviour, content direction and performance measurement were considered together, giving us a much stronger basis for digital campaign decisions.",
+    "service": "Digital Campaign Planning"
+  },
+  {
+    "name": "Ishita Roy",
+    "country": "India",
+    "project": "Professional Social Media Branding",
+    "quote": "My social media presence became considerably more consistent after the branding work. Content themes, visual direction and messaging were brought together around a recognisable professional identity across platforms.",
+    "service": "Social Media Branding"
+  },
+  {
+    "name": "Grace Morgan",
+    "country": "United Kingdom",
+    "project": "Social Media Content Strategy",
+    "quote": "The content strategy gave our brand a much more consistent voice and eliminated random posting. Content pillars, audience messaging and publishing themes created a clearer structure for ongoing social communication.",
+    "service": "Social Media Strategy"
+  },
+  {
+    "name": "Karan Patel",
+    "country": "India",
+    "project": "Instagram & LinkedIn Branding",
+    "quote": "The branding project created a stronger professional identity across Instagram and LinkedIn. Visual consistency, profile positioning and content planning made the overall presence look considerably more organised.",
+    "service": "Professional Branding"
+  },
+  {
+    "name": "Olivia Harris",
+    "country": "United States",
+    "project": "Personal Brand Strategy",
+    "quote": "The strategy captured my professional positioning and translated it into a clear digital identity. Recommendations were tailored to my target audience, expertise and communication goals rather than following generic social-media trends.",
+    "service": "Personal Branding"
+  },
+  {
+    "name": "Siddharth Rao",
+    "country": "India",
+    "project": "NLP Dataset Annotation",
+    "quote": "The NLP annotation project used clearly defined labelling rules and a consistent quality-control process. Ambiguous text cases were handled systematically, producing a cleaner dataset for downstream natural language processing and machine-learning tasks.",
+    "service": "Data Annotation"
+  },
+  {
+    "name": "Noah Williams",
+    "country": "United States",
+    "project": "Machine Learning Dataset Labelling",
+    "quote": "The training dataset was organised carefully with strong attention to label consistency and documentation. Quality checks throughout the annotation workflow made the dataset considerably easier to use during subsequent machine-learning development.",
+    "service": "AI Dataset Preparation"
+  },
+  {
+    "name": "Meera Krishnan",
+    "country": "India",
+    "project": "Text Classification Dataset",
+    "quote": "A large volume of text data was categorised systematically and reviewed for inconsistencies before model development. The resulting dataset was cleaner, more structured and better suited to text-classification experiments.",
+    "service": "Text Data Annotation"
+  },
+  {
+    "name": "Hannah Fischer",
+    "country": "Germany",
+    "project": "AI Training Data Preparation",
+    "quote": "The annotation workflow was methodical and supported by clear documentation. Data quality was checked throughout the process rather than only at the final stage, creating a reliable foundation for AI model development.",
+    "service": "AI Training Data"
+  },
+  {
+    "name": "Abhishek Das",
+    "country": "India",
+    "project": "IoT Monitoring Prototype",
+    "quote": "The IoT prototype successfully connected device data with a straightforward monitoring interface. The architecture focused on practical operational monitoring, making real-time device information easier to access and interpret.",
+    "service": "IoT Integration"
+  },
+  {
+    "name": "Thomas Müller",
+    "country": "Germany",
+    "project": "Sensor Monitoring System",
+    "quote": "Sensor data was integrated into a monitoring dashboard that provided a clear view of device activity. The architecture was explained carefully and designed so that additional devices could be incorporated as requirements expanded.",
+    "service": "IoT Monitoring Solutions"
+  },
+  {
+    "name": "Ritika Jain",
+    "country": "India",
+    "project": "Raspberry Pi IoT Prototype",
+    "quote": "The Raspberry Pi prototype combined sensor collection, connectivity and dashboard monitoring into one functional workflow. Documentation was clear enough to support further experimentation and future development.",
+    "service": "IoT Prototype Development"
+  },
+  {
+    "name": "Benjamin Lee",
+    "country": "Singapore",
+    "project": "MQTT Device Integration",
+    "quote": "The MQTT-based integration provided a practical foundation for connecting multiple devices with the application. Communication between devices and the monitoring layer was organised in a way that could support future expansion.",
+    "service": "Connected Device Integration"
+  },
+  {
+    "name": "Akash Gupta",
+    "country": "India",
+    "project": "AWS Deployment Workflow",
+    "quote": "The application deployment process became far more organised after introducing an AWS and Docker-based workflow. Deployment documentation and repeatable processes also made subsequent application maintenance easier.",
+    "service": "Cloud & DevOps"
+  },
+  {
+    "name": "William Scott",
+    "country": "United Kingdom",
+    "project": "Docker & Cloud Deployment",
+    "quote": "Our application deployment was redesigned into a repeatable cloud workflow. Docker configuration and infrastructure decisions reflected the application's technical requirements rather than relying on a one-size-fits-all deployment.",
+    "service": "DevOps & Deployment"
+  },
+  {
+    "name": "Tanvi Kulkarni",
+    "country": "India",
+    "project": "Scalable Cloud Infrastructure",
+    "quote": "The cloud infrastructure was planned with scalability and maintainability in mind rather than simply getting the application online. This provided a stronger technical foundation for future development and deployment.",
+    "service": "Cloud Infrastructure"
+  },
+  {
+    "name": "Alexander Weber",
+    "country": "Germany",
+    "project": "DevOps Deployment Automation",
+    "quote": "The DevOps workflow removed several repetitive deployment steps and created a cleaner application-update process. Automation also made the overall deployment workflow more consistent and manageable.",
+    "service": "DevOps Automation"
+  },
+  {
+    "name": "Nikhil Chatterjee",
+    "country": "India",
+    "project": "Business Operations Management System",
+    "quote": "A manual operational process was converted into a structured software workflow tailored to our business requirements. The solution simplified routine activities without forcing our team to adapt to an unnecessarily complicated predefined system.",
+    "service": "Custom Software Development"
+  },
+  {
+    "name": "Emma Richardson",
+    "country": "Canada",
+    "project": "Internal Management Application",
+    "quote": "The development process began with understanding how our team actually worked before designing the application. This resulted in an internal management system that felt genuinely customised to our operational requirements.",
+    "service": "Business Application Development"
+  },
+  {
+    "name": "Harsh Agarwal",
+    "country": "India",
+    "project": "Python Business Process Automation",
+    "quote": "Several repetitive operational tasks were automated through a customised Python solution. The workflow reduced manual processing, improved consistency and gave the team a more efficient way to handle routine data operations.",
+    "service": "Business Process Automation"
+  },
+  {
+    "name": "Jack Collins",
+    "country": "Australia",
+    "project": "Custom Web Platform",
+    "quote": "The web platform was built around our specific operational requirements and replaced several disconnected processes with a much cleaner digital workflow. The interface remained straightforward despite the complexity behind the system.",
+    "service": "Custom Web Development"
+  },
+  {
+    "name": "Dr. Kavya Menon",
+    "country": "India",
+    "project": "Healthcare Analytics Dashboard",
+    "quote": "The healthcare analytics dashboard converted a complex dataset into clear indicators, trends and visualisations. The emphasis on usability and meaningful reporting made the information considerably easier to interpret for research and monitoring purposes.",
+    "service": "Healthcare Data Analytics"
+  },
+  {
+    "name": "Dr. Amelia Roberts",
+    "country": "United Kingdom",
+    "project": "Health Research Statistical Analysis",
+    "quote": "The statistical analysis was rigorous, clearly documented and consistently connected back to the research questions. Results were interpreted rather than simply reported, which made the quantitative findings much more useful.",
+    "service": "Health Research Analytics"
+  },
+  {
+    "name": "Prof. Sayan Ghosh",
+    "country": "India",
+    "project": "Education Analytics Project",
+    "quote": "The educational data analysis provided a much clearer view of learner performance and assessment patterns. The reporting structure and dashboard helped identify trends that were difficult to recognise from the raw data alone.",
+    "service": "Education Analytics"
+  },
+  {
+    "name": "Sarah Mitchell",
+    "country": "United States",
+    "project": "Learning Management Platform Prototype",
+    "quote": "The education platform prototype was structured around the needs of teachers and learners rather than technology alone. Navigation, learning activities and information architecture were intuitive and straightforward.",
+    "service": "Education Software Development"
+  },
+  {
+    "name": "Rajat Khanna",
+    "country": "India",
+    "project": "Financial KPI & Cash-Flow Dashboard",
+    "quote": "The financial dashboard consolidated important KPIs, cash-flow trends and performance indicators into one reporting interface. Management information that previously required multiple spreadsheets became much easier to monitor and interpret.",
+    "service": "FinTech & Financial Analytics"
+  },
+  {
+    "name": "George Evans",
+    "country": "United Kingdom",
+    "project": "Retail Sales & Inventory Analytics",
+    "quote": "The retail analytics dashboard transformed fragmented sales and inventory information into clear business insights. Product performance, sales trends and inventory indicators could be reviewed from a single reporting environment.",
+    "service": "Retail Analytics"
+  },
+  {
+    "name": "Pooja Arora",
+    "country": "India",
+    "project": "Real Estate Lead Management CRM",
+    "quote": "The real estate CRM made it much easier to manage enquiries, property interests and customer follow-ups from one place. The workflow provided a clearer picture of each prospect and reduced reliance on manual tracking.",
+    "service": "Real Estate CRM Development"
+  },
+  {
+    "name": "Nathan Brown",
+    "country": "United States",
+    "project": "eCommerce Customer & Sales Analytics",
+    "quote": "The eCommerce analysis gave us a much clearer understanding of sales behaviour, customer patterns and product performance. Recommendations were tied directly to the available data, making the findings useful for practical decision-making.",
+    "service": "eCommerce Analytics"
+  },
+  {
+    "name": "Yuki Tanaka",
+    "country": "Japan",
+    "project": "Manufacturing & Supply-Chain Analytics",
+    "quote": "The reporting dashboard provided a much clearer overview of supply-chain and operational indicators. Complex manufacturing information was converted into concise visual reporting that supported faster identification of performance trends.",
+    "service": "Manufacturing Analytics"
+  }
+]

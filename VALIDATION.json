@@ -1,0 +1,10 @@
+{
+  "html_pages": 70,
+  "pdfs_byte_identical": 23,
+  "local_links_checked": 4416,
+  "broken_local_links": 0,
+  "valid_json_ld_blocks": 141,
+  "javascript_syntax": "passed",
+  "browser_visual_testing": "not completed",
+  "motion": "Canvas silver-shard replacement; not identical to original WebGPU effect"
+}
