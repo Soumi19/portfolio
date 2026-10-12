@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://soumiganguly.com/sitemap.xml
+Sitemap: http://soumiganguly.com/sitemap.xml
+Sitemap: http://soumiganguly.com/image-sitemap.xml
