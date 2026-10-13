@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://soumiganguly.com/sitemap.xml
-Sitemap: http://soumiganguly.com/image-sitemap.xml
+Sitemap: https://soumi19.github.io/portfolio/sitemap.xml
+Sitemap: https://soumi19.github.io/portfolio/image-sitemap.xml
