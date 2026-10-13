@@ -3,7 +3,7 @@
 All public pages are real HTML files. Styling is in assets/css and pages-enhancements.css. Interaction and background motion are in pages-runtime.js. There is no React, TypeScript, npm installation, bundler or compilation step.
 
 ## Preview
-Run `python3 -m http.server 8000` in this folder and open http://localhost:8000. Use an HTTP server: opening index.html through file:// blocks module imports, content fetches and the PDF viewer in browsers.
+[Run `python3 -m http.server 8000` in this folder and open http://localhost:8000. Use an HTTP server: opening index.html through file:// blocks module imports, content fetches and the PDF viewer in browsers.](https://soumiganguly.com/)
 
 ## GitHub Pages
 Use GitHub Desktop to clone Soumi19/portfolio. Back up your previous checkout. Replace its website contents with the contents of this package, keeping the checkout's .git directory. Remove the previous source and _next directories and previous workflow YAML files; this package contains its own .github/workflows/pages.yml. Commit and push. Settings → Pages → Source: GitHub Actions. The workflow deploys the plain files and refreshes public feeds daily.
