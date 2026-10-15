@@ -25,10 +25,6 @@ jobs:
           node-version: '24'
       - uses: actions/configure-pages@v5
         id: pages
-      - name: Update site address
-        env:
-          SITE_URL: ${{ steps.pages.outputs.origin }}${{ steps.pages.outputs.base_path }}
-        run: node -e 'const fs=require("fs");const p="site.config.json";const c=JSON.parse(fs.readFileSync(p));c.siteUrl=process.env.SITE_URL;fs.writeFileSync(p,JSON.stringify(c,null,2))'
       - name: Refresh public content with fallbacks
         run: node scripts/refresh-feeds.mjs
       - name: Update HTML and SEO
